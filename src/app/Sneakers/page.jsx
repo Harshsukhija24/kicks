@@ -1,10 +1,9 @@
 import React from "react";
-
-import NewArrival from "../Component/newArrivaral";
+import Sneakers from "../Component/sneakers";
 const page = () => {
   return (
     <div>
-      <NewArrival />
+      <Sneakers />
     </div>
   );
 };

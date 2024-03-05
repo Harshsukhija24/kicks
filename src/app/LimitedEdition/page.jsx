@@ -1,11 +1,12 @@
-import React from 'react'
+import React from "react";
+import LimitedEdition from "../Component/LimitedEdition";
 
-const page = () => {
+const Page = () => {
   return (
     <div>
-      ld
+      <LimitedEdition />
     </div>
-  )
-}
+  );
+};
 
-export default page
+export default Page;

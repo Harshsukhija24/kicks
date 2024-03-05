@@ -12,7 +12,12 @@
     "@emotion/react": "^11.11.4",
     "@mui/icons-material": "^5.15.11",
     "@mui/material": "^5.15.11",
+    "bcrypt": "^5.1.1",
+    "bcryptjs": "^2.4.3",
+    "mongodb": "^6.4.0",
+    "mongoose": "^8.2.0",
     "next": "14.0.3",
+    "next-auth": "^4.24.6",
     "react": "^18",
     "react-dom": "^18"
   },

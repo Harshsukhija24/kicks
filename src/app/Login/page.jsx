@@ -1,15 +1,34 @@
 "use client";
 
 import Link from "next/link";
+import { useRouter } from "next/navigation";
 import { useState } from "react";
-
+import { signIn } from "next-auth/react";
 const page = () => {
   const [email, SetEmail] = useState("");
   const [password, SetPassword] = useState("");
+  const router = useRouter();
   const [error, SetError] = useState("");
   const handleSubmit = async (e) => {
     e.preventDefault();
     SetError("");
+    try {
+      const respone = await signIn("credentials", {
+        email,
+        password,
+        redirect: false,
+      });
+      console.log(respone);
+      if (respone?.error) {
+        SetError("invaild");
+        console.log(error);
+        return;
+      }
+      router.push("/Home");
+    } catch (error) {
+      console.log("error:", error);
+      SetError("an unexpected error");
+    }
   };
   return (
     <div>

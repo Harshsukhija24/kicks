@@ -1,0 +1,225 @@
+{
+  "hasNext": true,
+  "products": [
+    {
+      "slug": "adidas-yeezy-boost-350-v2-yecheil-non-reflective",
+      "price": 44075.0,
+      "name": "Adidas Yeezy Boost 350 V2 Yecheil Non Reflective",
+      "imgUrl": "https://crepdogcrew.com/cdn/shop/products/ADIDASYEEZYBOOST350V2YECHEIL_NONREFLECTIVE_800x.png?v=1680161271",
+      "skuId": "ADYEBO35V2YECHEIL",
+      "size": "ALL",
+      "url": "",
+      "new": false
+    },
+    {
+      "slug": "yeezy-boost-350-v2-cmpct-slate-bone",
+      "price": 24725.0,
+      "name": "Yeezy Boost 350 V2 Cmpct Slate Bone",
+      "imgUrl": "https://res.cloudinary.com/dx8gt3nnu/image/upload/q_auto,f_auto/dryp-shoe-pictures/yeezy-boost-350-v2-cmpct-'slate-bone'-h06519/display_picture.png",
+      "skuId": "YEBO35V2CMSLBO",
+      "size": "ALL",
+      "url": "",
+      "new": false
+    },
+    {
+      "slug": "yeezy-boost-350-v2-blue-tint",
+      "price": 36012.5,
+      "name": "Yeezy Boost 350 V2 Blue Tint",
+      "imgUrl": "https://res.cloudinary.com/dx8gt3nnu/image/upload/q_auto,f_auto/dryp-shoe-pictures/yeezy-boost-350-v2-'blue-tint'-/display_picture.png",
+      "skuId": "YEBO35V2BLTI",
+      "size": "ALL",
+      "url": "",
+      "new": false
+    },
+    {
+      "slug": "travis-scott-x-air-max-1-saturn-gold",
+      "price": 27999,
+      "name": "Travis Scott X Air Max 1 Saturn Gold",
+      "imgUrl": "https://res.cloudinary.com/dx8gt3nnu/image/upload/q_auto,f_auto/dryp-shoe-pictures/travis-scott-x-air-max-1-'saturn-gold'-do9392700/display_picture.png",
+      "skuId": "TRSCXAIMA1SAGO",
+      "size": "ALL",
+      "url": "",
+      "new": false
+    },
+    {
+      "slug": "new-balance-550-team-red",
+      "price": 18999,
+      "name": "New Balance 550 Team Red",
+      "imgUrl": "https://images.stockx.com/images/New-Balance-550-White-Red-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1630617711",
+      "skuId": "NEBA55TERE",
+      "size": "ALL",
+      "url": "https://findyourkicks.com/product/new-balance-550-white-team-red",
+      "new": false
+    },
+    {
+      "slug": "new-balance-550-oreo",
+      "price": 11499,
+      "name": "New Balance 550 Oreo",
+      "imgUrl": "https://www.kicksmachine.com/cdn/shop/files/bb550ha1_nb_05_i.webp?v=1687441728&width=600",
+      "skuId": "NEBA55OR",
+      "size": "ALL",
+      "url": "https://findyourkicks.com/product/new-balance-550-oreo",
+      "new": false
+    },
+    {
+      "slug": "9060-black-castlerock",
+      "price": 21999,
+      "name": "9060 Black Castlerock",
+      "imgUrl": "https://cdn.shopify.com/s/files/1/0600/3313/8864/products/1029570_01_jpg_1024x1024.webp?v=1676031893",
+      "skuId": "90BLCA",
+      "size": "ALL",
+      "url": "",
+      "new": false
+    },
+    {
+      "slug": "new-balance-2002r-protection-pack-black-grey",
+      "price": 23999,
+      "name": "New Balance 2002R Protection Pack  Black Grey",
+      "imgUrl": "//cdn.shopify.com/s/files/1/0563/5060/5499/files/GREYPROTECTION_576x.webp?v=1683279951",
+      "skuId": "NEBA20PRPABLGR",
+      "size": "ALL",
+      "url": "",
+      "new": false
+    },
+    {
+      "slug": "yeezy-boost-350-v2-zyon",
+      "price": 32787.5,
+      "name": "Yeezy Boost 350 V2 Zyon",
+      "imgUrl": "https://res.cloudinary.com/dx8gt3nnu/image/upload/q_auto,f_auto/dryp-shoe-pictures/yeezy-boost-350-v2-'zyon'-fz1267/display_picture.png",
+      "skuId": "YEBO35V2ZY",
+      "size": "ALL",
+      "url": "",
+      "new": false
+    },
+    {
+      "slug": "new-balance-9060-blue-haze",
+      "price": 23999,
+      "name": "New Balance 9060 Blue Haze",
+      "imgUrl": "https://images.stockx.com/images/New-Balance-9060-Blue-Haze-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1677702668",
+      "skuId": "BNEBA90BLHA",
+      "size": "ALL",
+      "url": "",
+      "new": false
+    },
+    {
+      "slug": "air-force-1-07-uv-colour-changing",
+      "price": 24999,
+      "name": "Air Force 1 07 Uv Colour Changing",
+      "imgUrl": "https://hypefly-assets.s3.ap-south-1.amazonaws.com/media/products/desktop_full_size/870-desktop_full_size.webp",
+      "skuId": "AIFO107UVCOCH",
+      "size": "ALL",
+      "url": "",
+      "new": false
+    },
+    {
+      "slug": "yeezy-knit-runner-fade-indigo",
+      "price": 29999,
+      "name": "Yeezy Knit Runner Fade Indigo",
+      "imgUrl": "https://hypefly-assets.s3.ap-south-1.amazonaws.com/media/products/desktop_full_size/116-desktop_full_size.webp",
+      "skuId": "YEKNRUFAIN",
+      "size": "ALL",
+      "url": "",
+      "new": false
+    },
+    {
+      "slug": "yeezy-boost-350-v2-tail-light",
+      "price": 44999,
+      "name": "Yeezy Boost 350 V2 Tail Light",
+      "imgUrl": "https://res.cloudinary.com/dx8gt3nnu/image/upload/q_auto,f_auto/dryp-shoe-pictures/yeezy-boost-350-v2-'tail-light'-fx9017/display_picture.png",
+      "skuId": "YEBO35V2TALI",
+      "size": "ALL",
+      "url": "https://findyourkicks.com/product/yeezy-boost-350-v2-tail-light",
+      "new": false
+    },
+    {
+      "slug": "yeezy-700-v3-copper-fade",
+      "price": 27999,
+      "name": "Yeezy 700 V3 Copper Fade",
+      "imgUrl": "https://res.cloudinary.com/dx8gt3nnu/image/upload/q_auto,f_auto/dryp-shoe-pictures/yeezy-700-v3-'copper-fade'-gy4109/display_picture.png",
+      "skuId": "YE70V3COFA",
+      "size": "ALL",
+      "url": "",
+      "new": false
+    },
+    {
+      "slug": "new-balance-550-white-grey",
+      "price": 17999,
+      "name": "New Balance 550 White Grey",
+      "imgUrl": "https://res.cloudinary.com/dx8gt3nnu/image/upload/q_auto,f_auto/dryp-shoe-pictures/new-balance-550-‘white-grey’-bb550pb1/display_picture.png",
+      "skuId": "NEBA55‘WGR",
+      "size": "ALL",
+      "url": "https://findyourkicks.com/product/new-balance-550-white-green",
+      "new": false
+    },
+    {
+      "slug": "yeezy-450-stone-flax",
+      "price": 26999,
+      "name": "Yeezy 450 Stone Flax",
+      "imgUrl": "https://hypefly-assets.s3.ap-south-1.amazonaws.com/media/products/desktop_full_size/112-desktop_full_size.webp",
+      "skuId": "YE45STFL",
+      "size": "ALL",
+      "url": "",
+      "new": false
+    },
+    {
+      "slug": "air-jordan-1-low-golf-wolf-grey",
+      "price": 11522.09,
+      "name": "Air Jordan 1 Low Golf Wolf Grey",
+      "imgUrl": "https://res.cloudinary.com/dx8gt3nnu/image/upload/q_auto,f_auto/dryp-shoe-pictures/air-jordan-1-low-golf-'wolf-grey'-dd9315002/display_picture.png",
+      "skuId": "AIJO1LOGOWOGR",
+      "size": "ALL",
+      "url": "",
+      "new": false
+    },
+    {
+      "slug": "yeezy-boost-380-covellite",
+      "price": 26999,
+      "name": "Yeezy Boost 380 Covellite",
+      "imgUrl": "https://res.cloudinary.com/dx8gt3nnu/image/upload/q_auto,f_auto/dryp-shoe-pictures/yeezy-boost-380-'covellite'-gz0454/display_picture.png",
+      "skuId": "YEBO38CO",
+      "size": "ALL",
+      "url": "",
+      "new": false
+    },
+    {
+      "slug": "yeezy-boost-350-v2-mono-cinder",
+      "price": 24725.0,
+      "name": "Yeezy Boost 350 V2 Mono Cinder",
+      "imgUrl": "https://res.cloudinary.com/dx8gt3nnu/image/upload/q_auto,f_auto/dryp-shoe-pictures/yeezy-boost-350-v2-'mono-cinder'-gx3791/display_picture.png",
+      "skuId": "YEBO35V2MOCI",
+      "size": "ALL",
+      "url": "",
+      "new": false
+    },
+    {
+      "slug": "new-balance-550-grey-white",
+      "price": 18999,
+      "name": "New Balance 550 Grey  White",
+      "imgUrl": "https://image.goxip.com/0_W9-KHnXbkwdrSPs4CTrmThF1o=/fit-in/500x500/filters:format(jpg):quality(80):fill(white)/https:%2F%2Fimages.stockx.com%2Fimages%2FNew-Balance-550-White-Grey-Product.jpg",
+      "skuId": "BNEBA55GRWH",
+      "size": "ALL",
+      "url": "",
+      "new": false
+    },
+    {
+      "slug": "nike-air-force-1-mid-x-offwhite-white",
+      "price": 21999.0,
+      "name": "Nike Air Force 1 Mid X OffWhite White",
+      "imgUrl": "https://res.cloudinary.com/dx8gt3nnu/image/upload/q_auto,f_auto/dryp-shoe-pictures/nike-air-force-1-mid-x-off-white-'white'-do6290-100/display_picture.png",
+      "skuId": "NIAIFO1MIXOFWH",
+      "size": "ALL",
+      "url": "",
+      "new": false
+    },
+    {
+      "slug": "air-jordan-1-low-alternate-royal-toe",
+      "price": 9104.175,
+      "name": "Air Jordan 1 Low 'Alternate Royal Toe'",
+      "imgUrl": "https://images.stockx.com/360/Air-Jordan-1-Low-Alternate-Royal-Toe/Images/Air-Jordan-1-Low-Alternate-Royal-Toe/Lv2/img19",
+      "skuId": "AIJO1LOALROYTO",
+      "size": "ALL",
+      "url": "",
+      "new": false
+    }
+  ]
+}
