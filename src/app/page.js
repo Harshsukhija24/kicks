@@ -1,13 +1,9 @@
 import React from "react";
-import Nav2 from "./Component/Nav2";
-import Footer from "./Component/Footer";
-import Home from "./Component/Home";
+import Login from "../app/Login/page";
 const page = () => {
   return (
     <div>
-      <Nav2 />
-      <Home />
-      <Footer />
+      <Login />
     </div>
   );
 };

@@ -1,10 +1,10 @@
 import React from "react";
 
-import NewArrival from "../Component/newArrivaral";
+import Home from "../Component/Home";
 const page = () => {
   return (
     <div>
-      <NewArrival />
+      <Home />
     </div>
   );
 };

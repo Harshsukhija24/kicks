@@ -10,13 +10,13 @@ export default function SignOut() {
 
   useEffect(() => {
     if (!session) {
-      router.push("/Login");
+      router.push("/login"); // Changed "/Login" to "/login" for consistency
     }
   }, [session, router]);
 
   const handleSignOut = async () => {
     await signOut();
-    router.push("/Login");
+    router.push("/login"); // Changed "/Login" to "/login" for consistency
   };
 
   return (

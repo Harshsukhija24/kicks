@@ -3,7 +3,7 @@ import { useState } from "react";
 import Link from "next/link";
 import { useRouter } from "next/navigation";
 
-const page = () => {
+const RegisterPage = () => {
   const [name, setName] = useState("");
   const [email, setEmail] = useState("");
   const [password, setPassword] = useState("");
@@ -54,7 +54,7 @@ const page = () => {
 
       const form = e.target;
       form.reset();
-      router.push("/Login");
+      router.push("/login");
     } catch (error) {
       console.error("Registration failed:", error.message);
       setError(error.message);
@@ -62,38 +62,52 @@ const page = () => {
   };
 
   return (
-    <div>
-      <h1>Register</h1>
-      <form onSubmit={handleSubmit}>
-        <input
-          id="name"
-          placeholder="Name"
-          type="text"
-          onChange={(e) => setName(e.target.value)}
-        />
-        <input
-          id="email"
-          placeholder="Email@xyz.com"
-          type="email"
-          value={email}
-          onChange={(e) => setEmail(e.target.value)}
-        />
-        <input
-          id="password"
-          placeholder="*****"
-          type="password"
-          value={password}
-          onChange={(e) => setPassword(e.target.value)}
-        />
-        <button type="submit">Register</button>
-        {error && <div>{error}</div>}
-        <p>
-          Already have an account?
-          <Link href="/Login">Login to your account</Link>
-        </p>
-      </form>
+    <div className="flex justify-center items-center min-h-screen bg-gray-100">
+      <div className="max-w-md w-full bg-white shadow-md rounded-lg px-8 py-6">
+        <h1 className="text-3xl font-bold mb-6 text-center">Register</h1>
+        <form onSubmit={handleSubmit}>
+          <input
+            id="name"
+            placeholder="Name"
+            type="text"
+            onChange={(e) => setName(e.target.value)}
+            className="w-full mb-4 px-3 py-2 rounded-md border border-gray-300 focus:outline-none focus:border-blue-500"
+          />
+          <input
+            id="email"
+            placeholder="Email@xyz.com"
+            type="email"
+            value={email}
+            onChange={(e) => setEmail(e.target.value)}
+            className="w-full mb-4 px-3 py-2 rounded-md border border-gray-300 focus:outline-none focus:border-blue-500"
+          />
+          <input
+            id="password"
+            placeholder="*****"
+            type="password"
+            value={password}
+            onChange={(e) => setPassword(e.target.value)}
+            className="w-full mb-4 px-3 py-2 rounded-md border border-gray-300 focus:outline-none focus:border-blue-500"
+          />
+          <button
+            type="submit"
+            className="w-full bg-blue-500 hover:bg-blue-600 text-white font-semibold py-2 px-4 rounded-md transition duration-300"
+          >
+            Register
+          </button>
+          {error && <div className="text-red-500 mt-2">{error}</div>}
+          <p className="mt-4 text-center">
+            Already have an account?{" "}
+            <Link href="/Login">
+              <span className="text-blue-500 hover:text-blue-700">
+                Login to your account
+              </span>
+            </Link>
+          </p>
+        </form>
+      </div>
     </div>
   );
 };
 
-export default page;
+export default RegisterPage;
