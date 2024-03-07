@@ -13,12 +13,15 @@ const Home = () => {
 
   return (
     <div className="container mx-auto">
-      <h1 className="text-4xl font-bold mb-4">Sneakers</h1>
-      <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
+      <h1 className="text-4xl font-bold text-center mb-4 text-gray-800">
+        New Arrival Sneakers
+      </h1>
+      <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">
         {products.map((product) => (
           <div
             key={product.slug}
-            className="bg-gray-200 rounded-lg overflow-hidden"
+            className="bg-blue-200 rounded-lg overflow-hidden shadow-md hover:shadow-lg transition duration-300"
+            style={{ width: "250px" }} // Adjust width as needed
           >
             <img
               src={product.imgUrl}
@@ -26,8 +29,10 @@ const Home = () => {
               className="w-full h-40 object-cover object-center"
             />
             <div className="p-4">
-              <h2 className="text-lg font-bold mb-2">{product.name}</h2>
-              <p className="text-gray-800">${product.price}</p>
+              <h2 className="text-lg font-bold mb-2 text-gray-800">
+                {product.name}
+              </h2>
+              <p className="text-gray-600">${product.price}</p>
             </div>
           </div>
         ))}

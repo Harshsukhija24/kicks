@@ -54,7 +54,7 @@ const RegisterPage = () => {
 
       const form = e.target;
       form.reset();
-      router.push("/login");
+      router.push("/Login");
     } catch (error) {
       console.error("Registration failed:", error.message);
       setError(error.message);

@@ -5,7 +5,7 @@ import Link from "next/link";
 const Nav2 = () => {
   return (
     <div className="flex justify-center space-x-6 py-4 bg-gray-900 text-white">
-      <Link href="/Home" className="hover:text-gray-300">
+      <Link href="/arrival" className="hover:text-gray-300">
         New Arrival
       </Link>
       <Link href="/Sneakers" className="hover:text-gray-300">
