@@ -1,10 +1,8 @@
 import React from "react";
-import Nav from "../Component/Nav";
 
 const Page = ({ backgroundColor }) => {
   return (
     <>
-      <Nav/>
       <div className={`bg-${backgroundColor}`}>
         <div className="max-w-3xl mx-auto px-4 py-8 text-lg text-white">
           {" "}

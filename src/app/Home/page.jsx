@@ -7,9 +7,9 @@ const page = () => {
   return (
     <div>
       <Home />
-      <Women />
       <Jordan1 />
       <Jordan4 />
+      <Women />
     </div>
   );
 };

@@ -1,6 +1,7 @@
 import { Inter } from "next/font/google";
 import "./globals.css";
 import { AuthProvider } from "./provider";
+import Provider from "../app/redux/Provider";
 import Nav from "./Component/Nav";
 import Nav2 from "./Component/Nav2";
 import Footer from "./Component/Footer";
@@ -18,7 +19,9 @@ export default function RootLayout({ children }) {
       <body className={inter.className}>
         <Nav />
         <Nav2 />
-        <AuthProvider> {children}</AuthProvider>
+        <AuthProvider>
+          <Provider>{children}</Provider>
+        </AuthProvider>
         <Footer />
       </body>
     </html>
