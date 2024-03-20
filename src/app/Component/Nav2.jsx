@@ -23,9 +23,6 @@ const Nav2 = () => {
       <Link href="/Resell" className="hover:text-gray-300">
         For Reseller
       </Link>
-      <Link href="/Size" className="hover:text-gray-300">
-        Size Chart
-      </Link>
     </div>
   );
 };

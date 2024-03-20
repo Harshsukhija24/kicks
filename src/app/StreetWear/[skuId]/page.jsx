@@ -13,7 +13,7 @@ const Product = () => {
   useEffect(() => {
     const fetchData = async () => {
       try {
-        const response = await fetch(`/api/Home/${skuId}`);
+        const response = await fetch(`/api/streetWear/${skuId}`);
         if (!response.ok) {
           throw new Error("Failed to fetch product data");
         }

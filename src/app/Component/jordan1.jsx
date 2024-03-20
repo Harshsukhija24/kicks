@@ -1,8 +1,10 @@
 "use client";
 import React, { useState, useEffect } from "react";
+import { useRouter } from "next/navigation";
 
 const Jordan1 = () => {
   const [jordan1, setJordan1] = useState([]);
+  const router = useRouter();
 
   useEffect(() => {
     fetch("api/jordan1") // Replace 'api/jordan1Products' with your actual API endpoint
@@ -20,6 +22,9 @@ const Jordan1 = () => {
         {jordan1.map((product) => (
           <div
             key={product.slug}
+            onClick={() => {
+              router.push(`/jordan1/${product.skuId}`);
+            }}
             className="bg-blue-100 rounded-lg overflow-hidden shadow-md hover:shadow-lg transition duration-300 mr-4"
             style={{ minWidth: "300px" }} // Adjust the minimum width of each item
           >

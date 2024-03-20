@@ -18,7 +18,7 @@ const RequireAuth = (WrappedComponent) => {
         return;
       } else {
         // User is not logged in, redirect to login page
-        router.replace("/Login"); // Redirect to the login page
+        router.replace("/"); // Redirect to the login page
       }
     }, [status, router]);
 

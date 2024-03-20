@@ -1,12 +1,19 @@
 "use client";
 import React, { useState, useEffect } from "react";
 import Searchbar from "../Component/Searchbar";
+import { useRouter } from "next/navigation";
+import { useSession } from "next-auth/react";
 
-const Home = () => {
+const arrival = () => {
   const [products, setProducts] = useState([]);
   const [searchQuery, setSearchQuery] = useState("");
+  const router = useRouter();
+  const { data: session } = useSession();
 
   useEffect(() => {
+    if (!session) {
+      router.push("/");
+    }
     fetch("api/newArrival")
       .then((response) => response.json())
       .then((data) => setProducts(data.products))
@@ -27,6 +34,9 @@ const Home = () => {
         {filteredProducts.map((product) => (
           <div
             key={product.slug}
+            onClick={() => {
+              router.push(`/arrival/${product.skuId}`);
+            }}
             className="bg-blue-200 rounded-lg overflow-hidden shadow-md hover:shadow-lg transition duration-300"
             style={{ width: "250px" }} // Adjust width as needed
           >
@@ -48,4 +58,4 @@ const Home = () => {
   );
 };
 
-export default Home;
+export default arrival;

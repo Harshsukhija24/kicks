@@ -2,16 +2,6 @@
   "hasNext": true,
   "products": [
     {
-      "slug": "adidas-yeezy-boost-350-v2-yecheil-non-reflective",
-      "price": 44075.0,
-      "name": "Adidas Yeezy Boost 350 V2 Yecheil Non Reflective",
-      "imgUrl": "https://crepdogcrew.com/cdn/shop/products/ADIDASYEEZYBOOST350V2YECHEIL_NONREFLECTIVE_800x.png?v=1680161271",
-      "skuId": "ADYEBO35V2YECHEIL",
-      "size": "ALL",
-      "url": "",
-      "new": false
-    },
-    {
       "slug": "yeezy-boost-350-v2-cmpct-slate-bone",
       "price": 24725.0,
       "name": "Yeezy Boost 350 V2 Cmpct Slate Bone",
@@ -71,16 +61,7 @@
       "url": "",
       "new": false
     },
-    {
-      "slug": "new-balance-2002r-protection-pack-black-grey",
-      "price": 23999,
-      "name": "New Balance 2002R Protection Pack  Black Grey",
-      "imgUrl": "//cdn.shopify.com/s/files/1/0563/5060/5499/files/GREYPROTECTION_576x.webp?v=1683279951",
-      "skuId": "NEBA20PRPABLGR",
-      "size": "ALL",
-      "url": "",
-      "new": false
-    },
+
     {
       "slug": "yeezy-boost-350-v2-zyon",
       "price": 32787.5,

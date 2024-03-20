@@ -10,15 +10,35 @@ const cartSlice = createSlice({
   initialState,
   reducers: {
     addItem(state, action) {
-      state.items.push(action.payload); // Add the item to the cart
+      const newItem = action.payload;
+      const existingItemIndex = state.items.findIndex(
+        (item) => item.skuId === newItem.skuId
+      );
+
+      if (existingItemIndex !== -1) {
+        // If the item already exists in the cart, increase its quantity
+        state.items[existingItemIndex].quantity += 1;
+      } else {
+        // Otherwise, add the item to the cart with quantity 1
+        state.items.push({ ...newItem, quantity: 1 });
+      }
     },
     removeItem(state, action) {
-      console.log({ state });
-      // Filter out the item with the provided id
-
-      state.items = state.items.filter(
-        (item) => item.skuId !== action.payload.skuId
+      const skuIdToRemove = action.payload.skuId;
+      const existingItemIndex = state.items.findIndex(
+        (item) => item.skuId === skuIdToRemove
       );
+
+      if (existingItemIndex !== -1) {
+        const existingItem = state.items[existingItemIndex];
+        if (existingItem.quantity > 1) {
+          // If the item quantity is greater than 1, decrement it
+          state.items[existingItemIndex].quantity -= 1;
+        } else {
+          // If the item quantity is 1, remove the item from the cart
+          state.items.splice(existingItemIndex, 1);
+        }
+      }
     },
   },
 });

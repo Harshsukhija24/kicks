@@ -1,19 +1,21 @@
 "use client";
 import React, { useState, useEffect } from "react";
-import { addItem } from "../redux/slices/cartSlice";
-import { useDispatch } from "react-redux";
 import { useRouter } from "next/navigation";
 import Searchbar from "../Component/Searchbar"; // Assuming Searchbar component is capitalized
+import { useSession } from "next-auth/react";
 
 const Home = () => {
   const [products, setProducts] = useState([]);
+  const { data: session } = useSession();
   const [filteredData, setFilteredData] = useState([]);
   const [searchQuery, setSearchQuery] = useState("");
   const [filterData, setFilterData] = useState(""); // State for filtering
-  const dispatch = useDispatch();
   const router = useRouter();
 
   useEffect(() => {
+    if (!session) {
+      router.push("/");
+    }
     fetch("/api/Home")
       .then((response) => response.json())
       .then((data) => {
@@ -32,10 +34,6 @@ const Home = () => {
     );
     setFilteredData(filteredProducts);
   }, [searchQuery, products, filterData]);
-
-  const handleAdd = (product) => {
-    dispatch(addItem(product));
-  };
 
   const handleFilterChange = (filter) => {
     setFilterData(filter);
@@ -69,9 +67,6 @@ const Home = () => {
               </h2>
               <p className="text-gray-600">${product.price}</p>
             </div>
-            <button className="btn" onClick={() => handleAdd(product)}>
-              Add to cart
-            </button>
           </div>
         ))}
       </div>
