@@ -3,9 +3,8 @@ import React, { useState, useEffect } from "react";
 import { addItem } from "@/app/redux/slices/cartSlice";
 import { useDispatch } from "react-redux";
 import { useParams } from "next/navigation";
-import Image from "next/image";
 
-const Product = () => {
+const jordan1 = () => {
   const { skuId } = useParams();
   const dispatch = useDispatch();
   const [productData, setProductData] = useState(null);
@@ -14,7 +13,7 @@ const Product = () => {
   useEffect(() => {
     const fetchData = async () => {
       try {
-        const response = await fetch(`/api/streetWear/${skuId}`);
+        const response = await fetch(`/api/jordan4/${skuId}`);
         if (!response.ok) {
           throw new Error("Failed to fetch product data");
         }
@@ -46,7 +45,7 @@ const Product = () => {
           <>
             <div className="text-center md:text-left">
               {productData.imgUrl && (
-                <Image
+                <img
                   src={productData.imgUrl}
                   alt="Product"
                   className="mx-auto  md:mx-0 w-3/5 md:w-3/5 mb-1"
@@ -77,4 +76,4 @@ const Product = () => {
   );
 };
 
-export default Product;
+export default jordan1;

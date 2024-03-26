@@ -1,7 +1,7 @@
 "use client";
 import React, { useState, useEffect } from "react";
 import { useRouter } from "next/navigation";
-import Searchbar from "../Component/Searchbar"; // Assuming Searchbar component is capitalized
+import Searchbar from "./Searchbar";
 import { useSession } from "next-auth/react";
 
 const Home = () => {
@@ -15,14 +15,15 @@ const Home = () => {
   useEffect(() => {
     if (!session) {
       router.push("/");
+    } else {
+      fetch("/api/Home")
+        .then((response) => response.json())
+        .then((data) => {
+          setProducts(data.products);
+          setFilteredData(data.products); // Initialize filteredData with all products
+        })
+        .catch((error) => console.error("Error fetching products:", error));
     }
-    fetch("/api/Home")
-      .then((response) => response.json())
-      .then((data) => {
-        setProducts(data.products);
-        setFilteredData(data.products); // Initialize filteredData with all products
-      })
-      .catch((error) => console.error("Error fetching products:", error));
   }, []);
 
   useEffect(() => {
@@ -41,9 +42,8 @@ const Home = () => {
 
   return (
     <div className="container mx-auto">
-      <h1 className="text-4xl font-bold mb-4 text-center text-gray-800">
-        Sneakers
-      </h1>
+      <h1 className="text-4xl font-bold mb-4">Home</h1>
+
       <Searchbar searchQuery={searchQuery} setSearchQuery={setSearchQuery} />
       <div>{/* Add filter buttons or select input here */}</div>
       <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">

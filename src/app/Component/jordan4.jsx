@@ -1,8 +1,10 @@
 "use client";
+import { useRouter } from "next/navigation";
 import React, { useState, useEffect } from "react";
 
 const Jordan4 = () => {
   const [jordan4Products, setJordan4Products] = useState([]);
+  const router = useRouter();
 
   useEffect(() => {
     fetch("api/jordan4") // Replace 'api/jordan4Products' with your actual API endpoint
@@ -19,8 +21,11 @@ const Jordan4 = () => {
       <div className="grid grid-flow-col auto-cols-max gap-4 overflow-x-auto">
         {jordan4Products.map((product) => (
           <div
+            onClick={() => {
+              router.push(`/jordan4/${product.skuId}`);
+            }}
             key={product.slug}
-            className="bg-gray-200 rounded-lg overflow-hidden"
+            className="bg-blue-100 rounded-lg overflow-hidden shadow-md hover:shadow-lg transition duration-300 mr-4"
             style={{ minWidth: "300px" }} // Adjust the minimum width of each item
           >
             <img

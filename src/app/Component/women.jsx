@@ -1,8 +1,10 @@
 "use client";
+import { useRouter } from "next/navigation";
 import React, { useState, useEffect } from "react";
 
 const Women = () => {
   const [products, setProducts] = useState([]);
+  const router = useRouter();
 
   useEffect(() => {
     fetch("api/women") // Assuming you have an API endpoint for women's products
@@ -20,6 +22,9 @@ const Women = () => {
         <div className="inline-flex">
           {products.map((product) => (
             <div
+              onClick={() => {
+                router.push(`/women/${product.skuId}`);
+              }}
               key={product.slug}
               className="bg-purple-200 rounded-lg overflow-hidden mr-4"
               style={{ width: "300px" }} // Adjust width of each item as needed

@@ -1,6 +1,6 @@
 "use client";
 import React, { useState, useEffect } from "react";
-import Searchbar from "../Component/searchbar";
+import Searchbar from "../Component/Searchbar";
 import { useRouter } from "next/navigation";
 import { useSession } from "next-auth/react";
 
@@ -12,7 +12,7 @@ const Home = () => {
 
   useEffect(() => {
     if (session) {
-      router.push("/arrival");
+      router.push("/Sneakers");
     } else {
       router.push("/");
     }
@@ -38,6 +38,7 @@ const Home = () => {
   return (
     <div className="container mx-auto">
       <h1 className="text-4xl font-bold mb-4">Sneakers</h1>
+
       <Searchbar searchQuery={searchQuery} setSearchQuery={setSearchQuery} />
 
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-y-4">

@@ -1,8 +1,18 @@
-import React from "react";
+import React, { useState, useEffect } from "react";
 
 const Search = ({ searchQuery, setSearchQuery }) => {
+  const [inputValue, setInputValue] = useState(searchQuery);
+
+  useEffect(() => {
+    const delayDebounceFn = setTimeout(() => {
+      setSearchQuery(inputValue);
+    }, 250);
+
+    return () => clearTimeout(delayDebounceFn);
+  }, [inputValue, setSearchQuery]);
+
   const handleSearchChange = (event) => {
-    setSearchQuery(event.target.value);
+    setInputValue(event.target.value);
   };
 
   return (
@@ -11,7 +21,7 @@ const Search = ({ searchQuery, setSearchQuery }) => {
         <input
           type="text"
           placeholder="Search..."
-          value={searchQuery}
+          value={inputValue}
           onChange={handleSearchChange}
           className="px-4 py-2 pl-10 pr-4 border border-gray-300 rounded-full focus:outline-none focus:border-blue-500"
         />

@@ -3,6 +3,7 @@ import React, { useState, useEffect } from "react";
 import Searchbar from "../Component/Searchbar";
 import { useRouter } from "next/navigation";
 import { useSession } from "next-auth/react";
+import Image from "next/image";
 
 const streetWear = () => {
   const [products, setProducts] = useState([]);
@@ -13,13 +14,13 @@ const streetWear = () => {
 
   useEffect(() => {
     if (!session) {
-      router.push("/?redire");
+      router.push("/");
     }
     fetch("api/streetWear")
       .then((response) => response.json())
       .then((data) => setProducts(data.products))
       .catch((error) => console.error("Error fetching products:", error));
-  }, []);
+  }, [session]);
 
   useEffect(() => {
     setFilteredProducts(
@@ -47,7 +48,7 @@ const streetWear = () => {
             className="bg-blue-200 rounded-lg overflow-hidden shadow-md hover:shadow-lg transition duration-300"
             style={{ width: "250px", height: "300px" }}
           >
-            <img
+            <Image
               src={product.imgUrl}
               alt={product.name}
               className="w-full h-40 object-cover object-center"

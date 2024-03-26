@@ -14,11 +14,12 @@ const arrival = () => {
     if (!session) {
       router.push("/");
     }
+
     fetch("api/newArrival")
       .then((response) => response.json())
       .then((data) => setProducts(data.products))
       .catch((error) => console.error("Error fetching products:", error));
-  }, []);
+  }, [session]);
 
   const filteredProducts = products.filter((product) =>
     product.name.toLowerCase().includes(searchQuery.toLowerCase())
@@ -26,9 +27,8 @@ const arrival = () => {
 
   return (
     <div className="container mx-auto">
-      <h1 className="text-4xl font-bold text-center mb-4 text-gray-800">
-        New Arrival Sneakers
-      </h1>
+      <h1 className="text-4xl font-bold mb-4">New Arrival</h1>
+
       <Searchbar searchQuery={searchQuery} setSearchQuery={setSearchQuery} />
       <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">
         {filteredProducts.map((product) => (
