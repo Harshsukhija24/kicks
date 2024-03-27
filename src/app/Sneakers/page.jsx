@@ -1,6 +1,6 @@
 "use client";
 import React, { useState, useEffect } from "react";
-import Searchbar from "../Component/Searchbar";
+import Searchbar from "../Component/Searchbar1";
 import { useRouter } from "next/navigation";
 import { useSession } from "next-auth/react";
 import Image from "next/image";
