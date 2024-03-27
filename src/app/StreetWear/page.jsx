@@ -5,7 +5,7 @@ import { useRouter } from "next/navigation";
 import { useSession } from "next-auth/react";
 import Image from "next/image";
 
-const streetWear = () => {
+const StreetWear = () => {
   const [products, setProducts] = useState([]);
   const [searchQuery, setSearchQuery] = useState("");
   const [filteredProducts, setFilteredProducts] = useState([]);
@@ -64,4 +64,4 @@ const streetWear = () => {
   );
 };
 
-export default streetWear;
+export default StreetWear;

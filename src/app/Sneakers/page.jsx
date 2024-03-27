@@ -3,6 +3,7 @@ import React, { useState, useEffect } from "react";
 import Searchbar from "../Component/Searchbar";
 import { useRouter } from "next/navigation";
 import { useSession } from "next-auth/react";
+import Image from "next/image";
 
 const Home = () => {
   const [products, setProducts] = useState([]);
@@ -51,7 +52,7 @@ const Home = () => {
             className="bg-blue-200 rounded-lg overflow-hidden shadow-md hover:shadow-lg transition duration-300"
             style={{ width: "250px", height: "300px" }} // Adjust width and height as needed
           >
-            <img
+            <Image
               src={product.imgUrl}
               alt={product.name}
               className="w-full h-40 object-cover object-center"

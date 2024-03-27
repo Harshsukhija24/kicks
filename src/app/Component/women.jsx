@@ -1,4 +1,5 @@
 "use client";
+import Image from "next/image";
 import { useRouter } from "next/navigation";
 import React, { useState, useEffect } from "react";
 
@@ -29,7 +30,7 @@ const Women = () => {
               className="bg-purple-200 rounded-lg overflow-hidden mr-4"
               style={{ width: "300px" }} // Adjust width of each item as needed
             >
-              <img
+              <Image
                 src={product.imgUrl}
                 alt={product.name}
                 className="w-full h-40 object-cover object-center"

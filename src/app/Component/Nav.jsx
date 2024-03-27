@@ -3,6 +3,7 @@
 import Link from "next/link";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faUser, faShoppingCart } from "@fortawesome/free-solid-svg-icons";
+import Image from "next/image";
 
 const Nav = () => {
   // Define the URL of the logo image
@@ -24,7 +25,7 @@ const Nav = () => {
         <div className="flex justify-center flex-1">
           <Link href="/Home">
             {/* Use the correct variable name */}
-            <img src={logoUrl} alt="logo" className="h-12" />
+            <Image src={logoUrl} alt="logo" className="h-12" />
           </Link>
         </div>
 

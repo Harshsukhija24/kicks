@@ -3,8 +3,9 @@ import React, { useState, useEffect } from "react";
 import { addItem } from "@/app/redux/slices/cartSlice";
 import { useDispatch } from "react-redux";
 import { useParams } from "next/navigation";
+import Image from "next/image";
 
-const jordan1 = () => {
+const Jordan1 = () => {
   const { skuId } = useParams();
   const dispatch = useDispatch();
   const [productData, setProductData] = useState(null);
@@ -45,7 +46,7 @@ const jordan1 = () => {
           <>
             <div className="text-center md:text-left">
               {productData.imgUrl && (
-                <img
+                <Image
                   src={productData.imgUrl}
                   alt="Product"
                   className="mx-auto  md:mx-0 w-3/5 md:w-3/5 mb-1"
@@ -76,4 +77,4 @@ const jordan1 = () => {
   );
 };
 
-export default jordan1;
+export default Jordan1;

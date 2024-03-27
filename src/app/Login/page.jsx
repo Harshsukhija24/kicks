@@ -5,7 +5,7 @@ import { useRouter } from "next/navigation";
 import { useState } from "react";
 import { signIn } from "next-auth/react";
 
-const page = () => {
+const Page = () => {
   const [email, setEmail] = useState(""); // Changed SetEmail to setEmail for consistency
   const [password, setPassword] = useState(""); // Changed SetPassword to setPassword for consistency
   const router = useRouter();
@@ -82,4 +82,4 @@ const page = () => {
   );
 };
 
-export default page;
+export default Page;

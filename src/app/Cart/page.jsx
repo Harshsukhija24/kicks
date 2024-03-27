@@ -5,6 +5,7 @@ import { removeItem } from "../redux/slices/cartSlice";
 import { useDispatch, useSelector } from "react-redux";
 import { useRouter } from "next/navigation"; // Import useRouter from next/router
 import { useSession } from "next-auth/react";
+import Image from "next/image";
 
 const CartPage = () => {
   const dispatch = useDispatch();
@@ -31,7 +32,7 @@ const CartPage = () => {
             key={index}
             className="bg-white shadow-lg rounded-lg overflow-hidden"
           >
-            <img
+            <Image
               src={item.imgUrl}
               alt={item.name}
               className="w-full h-40 object-cover"

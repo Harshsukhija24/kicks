@@ -1,6 +1,7 @@
 "use client";
 import React, { useState, useEffect } from "react";
 import { useRouter } from "next/navigation";
+import Image from "next/image";
 
 const Jordan1 = () => {
   const [jordan1, setJordan1] = useState([]);
@@ -28,7 +29,7 @@ const Jordan1 = () => {
             className="bg-blue-100 rounded-lg overflow-hidden shadow-md hover:shadow-lg transition duration-300 mr-4"
             style={{ minWidth: "300px" }} // Adjust the minimum width of each item
           >
-            <img
+            <Image
               src={product.imgUrl}
               alt={product.name}
               className="w-full h-40 object-cover object-center"

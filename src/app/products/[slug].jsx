@@ -2,6 +2,7 @@
 "use client";
 import React, { useState, useEffect } from "react";
 import { useRouter } from "next/router";
+import Image from "next/image";
 
 const ProductPage = () => {
   const router = useRouter();
@@ -36,7 +37,7 @@ const ProductPage = () => {
       <p>Description: {product.description}</p>
       <p>Price: ${product.price}</p>
       {/* Render other product details here */}
-      <img src={product.imgUrl} alt={product.name} />
+      <Image src={product.imgUrl} alt={product.name} />
     </div>
   );
 };
