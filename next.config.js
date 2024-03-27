@@ -11,6 +11,7 @@ const nextConfig = {
       "www.kicksmachine.com",
       "hypefly-assets.s3.ap-south-1.amazonaws.com",
       "image.goxip.com",
+      "culturecircle.s3.ap-south-1.amazonaws.com",
       // Add more domains as needed
     ],
   },
