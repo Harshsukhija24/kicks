@@ -53,9 +53,12 @@ const Home = () => {
             className="bg-blue-200 rounded-lg overflow-hidden shadow-md hover:shadow-lg transition duration-300"
             style={{ width: "250px" }}
           >
+            {/* Use Next.js Image component */}
             <Image
               src={product.imgUrl}
               alt={product.name}
+              width={250}
+              height={250}
               layout="responsive"
               className="w-full h-32 object-cover object-center"
             />
