@@ -57,9 +57,6 @@ const Home = () => {
             <Image
               src={product.imgUrl}
               alt={product.name}
-              width={250}
-              height={250}
-              layout="responsive"
               className="w-full h-32 object-cover object-center"
             />
             <div className="p-4">
