@@ -49,6 +49,8 @@ const Product = () => {
                 <Image
                   src={productData.imgUrl}
                   alt="Product"
+                  height={300}
+                  width={100}
                   className="mx-auto  md:mx-0 w-3/5 md:w-3/5 mb-1"
                 />
               )}

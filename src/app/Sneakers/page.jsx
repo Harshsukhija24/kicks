@@ -55,6 +55,8 @@ const Home = () => {
             <Image
               src={product.imgUrl}
               alt={product.name}
+              width={100}
+              height={300}
               className="w-full h-40 object-cover object-center"
             />
             <div className="p-4">

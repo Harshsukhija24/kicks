@@ -43,6 +43,8 @@ const LimitedEdition = () => {
             style={{ width: "250px", height: "300px" }} // Adjust width and height as needed
           >
             <Image
+              height={300}
+              width={100}
               src={product.imgUrl}
               alt={product.name}
               className="w-full h-40 object-cover object-center"

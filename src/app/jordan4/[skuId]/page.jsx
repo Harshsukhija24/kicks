@@ -47,6 +47,8 @@ const Jordan1 = () => {
             <div className="text-center md:text-left">
               {productData.imgUrl && (
                 <Image
+                  height={300}
+                  width={100}
                   src={productData.imgUrl}
                   alt="Product"
                   className="mx-auto  md:mx-0 w-3/5 md:w-3/5 mb-1"

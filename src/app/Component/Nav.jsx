@@ -25,7 +25,13 @@ const Nav = () => {
         <div className="flex justify-center flex-1">
           <Link href="/Home">
             {/* Use the correct variable name */}
-            <Image src={logoUrl} alt="logo" className="h-12" />
+            <Image
+              src={logoUrl}
+              alt="logo"
+              height={300}
+              width={100}
+              className="h-12 "
+            />
           </Link>
         </div>
 

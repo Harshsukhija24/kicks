@@ -57,8 +57,11 @@ const Home = () => {
             <Image
               src={product.imgUrl}
               alt={product.name}
+              width={100} // Set the desired width of the image
+              height={300} // Set the desired height of the image
               className="w-full h-32 object-cover object-center"
             />
+
             <div className="p-4">
               <h2 className="text-lg font-bold mb-2 text-gray-800">
                 {product.name}

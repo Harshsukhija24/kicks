@@ -37,7 +37,7 @@ const ProductPage = () => {
       <p>Description: {product.description}</p>
       <p>Price: ${product.price}</p>
       {/* Render other product details here */}
-      <Image src={product.imgUrl} alt={product.name} />
+      <Image src={product.imgUrl} alt={product.name} height={300} width={100} />
     </div>
   );
 };

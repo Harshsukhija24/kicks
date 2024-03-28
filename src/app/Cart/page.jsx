@@ -34,6 +34,8 @@ const CartPage = () => {
           >
             <Image
               src={item.imgUrl}
+              height={300}
+              width={100}
               alt={item.name}
               className="w-full h-40 object-cover"
             />

@@ -44,6 +44,8 @@ const Arrival = () => {
             <Image
               src={product.imgUrl}
               alt={product.name}
+              height={300}
+              width={100} // Corrected typo: width instead of weidth
               className="w-full h-40 object-cover object-center"
             />
             <div className="p-4">

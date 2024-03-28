@@ -32,6 +32,8 @@ const Women = () => {
             >
               <Image
                 src={product.imgUrl}
+                height={300}
+                width={100}
                 alt={product.name}
                 className="w-full h-40 object-cover object-center"
               />

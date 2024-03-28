@@ -48,6 +48,8 @@ const Product = () => {
               {productData.imgUrl && (
                 <Image
                   src={productData.imgUrl}
+                  height={300}
+                  width={100}
                   alt="Product"
                   className="mx-auto  md:mx-0 w-3/5 md:w-3/5 mb-1"
                 />
