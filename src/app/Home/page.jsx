@@ -7,7 +7,6 @@ const page = () => {
   return (
     <div>
       <Home />
-
       <Jordan1 />
       <Jordan4 />
       <Women />

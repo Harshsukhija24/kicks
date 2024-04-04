@@ -7,7 +7,7 @@
       "name": "Yeezy Boost 350 V2 Cmpct Slate Bone",
       "imgUrl": "https://res.cloudinary.com/dx8gt3nnu/image/upload/q_auto,f_auto/dryp-shoe-pictures/yeezy-boost-350-v2-cmpct-'slate-bone'-h06519/display_picture.png",
       "skuId": "YEBO35V2CMSLBO",
-      "size": "ALL",
+      "sizes": ["UK 6", "UK 7", "UK 8", "UK 9", "UK 10"],
       "url": "",
       "new": false
     },
