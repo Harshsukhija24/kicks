@@ -1,41 +1,36 @@
-"use client";
-import React, { useState, useEffect } from "react";
-import { useRouter } from "next/navigation";
+import React from "react";
 import Image from "next/image";
+import Link from "next/link";
 
-const Jordan1 = () => {
-  const [jordan1, setJordan1] = useState([]);
-  const router = useRouter();
+const Jordan1 = ({ jordan1 }) => {
+  // Check if jordan1 exists and contains products
+  if (!jordan1 || !jordan1.products) {
+    return <div>Products not found</div>;
+  }
 
-  useEffect(() => {
-    fetch("api/jordan1") // Replace 'api/jordan1Products' with your actual API endpoint
-      .then((response) => response.json())
-      .then((data) => setJordan1(data.products))
-      .catch((error) =>
-        console.error("Error fetching Jordan 1 products:", error)
-      );
-  }, []);
+  const { products } = jordan1;
 
   return (
     <div className="container mx-auto">
       <h1 className="text-4xl font-bold mb-4">Jordan 1 Sneakers</h1>
       <div className="flex flex-nowrap overflow-x-auto">
-        {jordan1.map((product) => (
+        {products.map((product) => (
           <div
             key={product.slug}
-            onClick={() => {
-              router.push(`/jordan1/${product.skuId}`);
-            }}
             className="bg-blue-100 rounded-lg overflow-hidden shadow-md hover:shadow-lg transition duration-300 mr-4"
             style={{ minWidth: "300px" }} // Adjust the minimum width of each item
           >
-            <Image
-              src={product.imgUrl}
-              height={300}
-              width={100}
-              alt={product.name}
-              className="w-full h-40 object-cover object-center"
-            />
+            <Link href={`/jordan1/${product.skuId}`}>
+              <a>
+                <Image
+                  src={product.imgUrl}
+                  height={300}
+                  width={100}
+                  alt={product.name}
+                  className="w-full h-40 object-cover object-center"
+                />
+              </a>
+            </Link>
             <div className="p-4">
               <h2 className="text-lg font-bold mb-2">{product.name}</h2>
               <p className="text-gray-800">${product.price}</p>
@@ -46,5 +41,19 @@ const Jordan1 = () => {
     </div>
   );
 };
+
+export async function getServerSideProps() {
+  try {
+    const response = await fetch("http://localhost:3000/api/jordan1");
+    if (!response.ok) {
+      throw new Error("Failed to fetch data");
+    }
+    const data = await response.json();
+    return { props: { jordan1: data } };
+  } catch (error) {
+    console.error("Error fetching data:", error);
+    return { props: { jordan1: null } };
+  }
+}
 
 export default Jordan1;

@@ -5,7 +5,6 @@ import Provider from "../app/redux/Provider";
 import Nav from "./Component/Nav";
 import Nav2 from "./Component/Nav2";
 import Footer from "./Component/Footer";
-import RequireAuth from "./Component/requireAuth";
 
 const inter = Inter({ subsets: ["latin"] });
 
