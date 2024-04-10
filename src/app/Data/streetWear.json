@@ -8,7 +8,7 @@
       "imgUrl": "https://res.cloudinary.com/dx8gt3nnu/image/upload/q_auto,f_auto/dryp-shoe-pictures/fear-of-god-essentials-hoodie-'off-black'-ss23/display_picture.png",
       "photo1": "https://res.cloudinary.com/dx8gt3nnu/image/upload/q_auto,f_auto/dryp-shoe-pictures/fear-of-god-essentials-hoodie-'off-black'-ss23/display_picture.png",
       "skuId": "APPFEOFGOESHOOFBL",
-      "size": "ALL",
+      "sizes": ["UK 6", "UK 7", "UK 8", "UK 9", "UK 10"],
       "url": "",
       "new": false
     },
@@ -19,7 +19,7 @@
       "imgUrl": "https://res.cloudinary.com/dx8gt3nnu/image/upload/q_auto,f_auto/dryp-shoe-pictures/drew-house-mascot-ss-tee-'lime'-ss22/display_picture.png",
       "photo1": "https://res.cloudinary.com/dx8gt3nnu/image/upload/q_auto,f_auto/dryp-shoe-pictures/drew-house-mascot-ss-tee-'lime'-ss22/display_picture.png",
       "skuId": "APPDRHOMASSTELI",
-      "size": "ALL",
+      "sizes": ["UK 6", "UK 7", "UK 8", "UK 9", "UK 10"],
       "url": "https://findyourkicks.com/product/drew-house-mascot-ss-tee-lime",
       "new": false
     },
@@ -30,7 +30,7 @@
       "imgUrl": "https://sneakerplug.co.in/cdn/shop/files/ASSCThunder.jpg?v=1684081703",
       "photo1": "https://sneakerplug.co.in/cdn/shop/files/ASSCThunder.jpg?v=1684081703",
       "skuId": "APPANSOSOCLTWTEBL",
-      "size": "ALL",
+      "sizes": ["UK 6", "UK 7", "UK 8", "UK 9", "UK 10"],
       "url": "",
       "new": false
     },
@@ -41,7 +41,7 @@
       "imgUrl": "https://res.cloudinary.com/dx8gt3nnu/image/upload/q_auto,f_auto/dryp-shoe-pictures/drew-house-mascot-ss-tee-'brown'-ss22/display_picture.png",
       "photo1": "https://res.cloudinary.com/dx8gt3nnu/image/upload/q_auto,f_auto/dryp-shoe-pictures/drew-house-mascot-ss-tee-'brown'-ss22/display_picture.png",
       "skuId": "APPDRHOMASSTEBR",
-      "size": "ALL",
+      "sizes": ["UK 6", "UK 7", "UK 8", "UK 9", "UK 10"],
       "url": "",
       "new": false
     },
@@ -52,7 +52,7 @@
       "imgUrl": "https://images.stockx.com/images/Anti-Social-Social-Club-Cancelled-T-Shirt-Black.jpg?fit=fill&bg=FFFFFF&w=700&h=500&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1611841581",
       "photo1": "https://images.stockx.com/images/Anti-Social-Social-Club-Cancelled-T-Shirt-Black.jpg?fit=fill&bg=FFFFFF&w=700&h=500&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1611841581",
       "skuId": "APPANSOSOCLCATSBL",
-      "size": "ALL",
+      "sizes": ["UK 6", "UK 7", "UK 8", "UK 9", "UK 10"],
       "url": "",
       "new": false
     },
@@ -63,7 +63,7 @@
       "imgUrl": "https://res.cloudinary.com/dx8gt3nnu/image/upload/q_auto,f_auto/dryp-shoe-pictures/fear-of-god-essentials-pull-over-hoodie-'black-%7C-stretch-limo'-ss21/display_picture.png",
       "photo1": "https://res.cloudinary.com/dx8gt3nnu/image/upload/q_auto,f_auto/dryp-shoe-pictures/fear-of-god-essentials-pull-over-hoodie-'black-%7C-stretch-limo'-ss21/display_picture.png",
       "skuId": "APPFEOFGOESPUHOBL|STLI",
-      "size": "ALL",
+      "sizes": ["UK 6", "UK 7", "UK 8", "UK 9", "UK 10"],
       "url": "https://findyourkicks.com/product/fear-of-god-essentials-pull-over-hoodie-black-stretch-limo",
       "new": false
     },
@@ -74,7 +74,7 @@
       "imgUrl": "https://res.cloudinary.com/dx8gt3nnu/image/upload/q_auto,f_auto/dryp-shoe-pictures/anti-social-social-club-kkoch-tee-kkoch/display_picture.png",
       "photo1": "https://res.cloudinary.com/dx8gt3nnu/image/upload/q_auto,f_auto/dryp-shoe-pictures/anti-social-social-club-kkoch-tee-kkoch/display_picture.png",
       "skuId": "APPANSOSOCLKKTE",
-      "size": "ALL",
+      "sizes": ["UK 6", "UK 7", "UK 8", "UK 9", "UK 10"],
       "url": "https://findyourkicks.com/product/anti-social-social-club-kkoch-tee",
       "new": false
     },
@@ -85,7 +85,7 @@
       "imgUrl": "https://res.cloudinary.com/dx8gt3nnu/image/upload/q_auto,f_auto/dryp-shoe-pictures/drew-house-'mascot-tee-orange'-/display_picture.png",
       "photo1": "https://res.cloudinary.com/dx8gt3nnu/image/upload/q_auto,f_auto/dryp-shoe-pictures/drew-house-'mascot-tee-orange'-/display_picture.png",
       "skuId": "APPDRHOMATEOR",
-      "size": "ALL",
+      "sizes": ["UK 6", "UK 7", "UK 8", "UK 9", "UK 10"],
       "url": "https://findyourkicks.com/product/drew-house-mascot-tee-orange",
       "new": false
     },
@@ -96,7 +96,7 @@
       "imgUrl": "https://i0.wp.com/www.hustleculture.co.in/wp-content/uploads/2023/04/Essentials-SS20-Hoodie-Cream.png?fit=1024%2C1120&ssl=1",
       "photo1": "https://i0.wp.com/www.hustleculture.co.in/wp-content/uploads/2023/04/Essentials-SS20-Hoodie-Cream.png?fit=1024%2C1120&ssl=1",
       "skuId": "APPFEOFGOESHO‘CRSS",
-      "size": "ALL",
+      "sizes": ["UK 6", "UK 7", "UK 8", "UK 9", "UK 10"],
       "url": "",
       "new": false
     },
@@ -107,7 +107,7 @@
       "imgUrl": "https://res.cloudinary.com/dx8gt3nnu/image/upload/q_auto,f_auto/dryp-shoe-pictures/drew-house-mascot-ss-tee-'ink'-mascotss/display_picture.png",
       "photo1": "https://res.cloudinary.com/dx8gt3nnu/image/upload/q_auto,f_auto/dryp-shoe-pictures/drew-house-mascot-ss-tee-'ink'-mascotss/display_picture.png",
       "skuId": "APPDRHOMASSTEIN",
-      "size": "ALL",
+      "sizes": ["UK 6", "UK 7", "UK 8", "UK 9", "UK 10"],
       "url": "",
       "new": false
     },
@@ -118,7 +118,7 @@
       "imgUrl": "https://res.cloudinary.com/dx8gt3nnu/image/upload/q_auto,f_auto/dryp-shoe-pictures/drew-house-'mascot-tee-white'-/display_picture.png",
       "photo1": "https://res.cloudinary.com/dx8gt3nnu/image/upload/q_auto,f_auto/dryp-shoe-pictures/drew-house-'mascot-tee-white'-/display_picture.png",
       "skuId": "APPDRHOMATEWH",
-      "size": "ALL",
+      "sizes": ["UK 6", "UK 7", "UK 8", "UK 9", "UK 10"],
       "url": "https://findyourkicks.com/product/drew-house-mascot-tee-white",
       "new": false
     },
@@ -129,7 +129,7 @@
       "imgUrl": "https://res.cloudinary.com/dx8gt3nnu/image/upload/q_auto,f_auto/dryp-shoe-pictures/essentials-ss2-t-shirt-'off-black'-ss22/display_picture.png",
       "photo1": "https://res.cloudinary.com/dx8gt3nnu/image/upload/q_auto,f_auto/dryp-shoe-pictures/essentials-ss2-t-shirt-'off-black'-ss22/display_picture.png",
       "skuId": "APPESSSTSOFBL",
-      "size": "ALL",
+      "sizes": ["UK 6", "UK 7", "UK 8", "UK 9", "UK 10"],
       "url": "",
       "new": false
     },
@@ -140,7 +140,7 @@
       "imgUrl": "https://marketplace.mainstreet.co.in/cdn/shop/products/1162051_01_jpg_8e608b56-46c8-489f-9ac5-cc22ed10112a_grande.jpg?v=1701203770",
       "photo1": "https://marketplace.mainstreet.co.in/cdn/shop/products/1162051_01_jpg_8e608b56-46c8-489f-9ac5-cc22ed10112a_grande.jpg?v=1701203770",
       "skuId": "APPFEOFGOESSSTSPL",
-      "size": "ALL",
+      "sizes": ["UK 6", "UK 7", "UK 8", "UK 9", "UK 10"],
       "url": "https://findyourkicks.com/product/fear-of-god-essentials-ss23-t-shirt-plum",
       "new": false
     },
@@ -151,7 +151,7 @@
       "imgUrl": "https://res.cloudinary.com/dx8gt3nnu/image/upload/q_auto,f_auto/dryp-shoe-pictures/drew-house-mascot-tee-'light-blue'-/display_picture.png",
       "photo1": "https://res.cloudinary.com/dx8gt3nnu/image/upload/q_auto,f_auto/dryp-shoe-pictures/drew-house-mascot-tee-'light-blue'-/display_picture.png",
       "skuId": "APPDRHOMATELIBL",
-      "size": "ALL",
+      "sizes": ["UK 6", "UK 7", "UK 8", "UK 9", "UK 10"],
       "url": "https://findyourkicks.com/product/drew-house-mascot-tee-light-blue",
       "new": false
     },
@@ -162,7 +162,7 @@
       "imgUrl": "https://dawntown.in/cdn/shop/files/fear-of-god-essentials-tee-stretch-limo-dawntown-1_1100x.webp?v=1691066065",
       "photo1": "https://dawntown.in/cdn/shop/files/fear-of-god-essentials-tee-stretch-limo-dawntown-1_1100x.webp?v=1691066065",
       "skuId": "BFEOFGOESTESTLI",
-      "size": "ALL",
+      "sizes": ["UK 6", "UK 7", "UK 8", "UK 9", "UK 10"],
       "url": "",
       "new": false
     },
@@ -173,7 +173,7 @@
       "imgUrl": "https://dawntown.in/cdn/shop/files/anti-social-social-club-t-shirt-kkoch-dawntown.jpg?v=1691065597",
       "photo1": "https://dawntown.in/cdn/shop/files/anti-social-social-club-t-shirt-kkoch-dawntown.jpg?v=1691065597",
       "skuId": "APPANSOSOCLKKBLTE",
-      "size": "ALL",
+      "sizes": ["UK 6", "UK 7", "UK 8", "UK 9", "UK 10"],
       "url": "https://findyourkicks.com/product/anti-social-social-club-kkoch-tee",
       "new": false
     },
@@ -184,7 +184,7 @@
       "imgUrl": "https://dawntown.in/cdn/shop/files/essentials_smoke_tshirt.webp?v=1695882676",
       "photo1": "https://dawntown.in/cdn/shop/files/essentials_smoke_tshirt.webp?v=1695882676",
       "skuId": "APPESTSSM",
-      "size": "ALL",
+      "sizes": ["UK 6", "UK 7", "UK 8", "UK 9", "UK 10"],
       "url": "https://findyourkicks.com/product/essentials-ss2-t-shirt-smoke",
       "new": false
     },
@@ -195,7 +195,7 @@
       "imgUrl": "https://res.cloudinary.com/dx8gt3nnu/image/upload/q_auto,f_auto/dryp-shoe-pictures/essentials-ss2-t-shirt-'wood'-ss22/display_picture.png",
       "photo1": "https://res.cloudinary.com/dx8gt3nnu/image/upload/q_auto,f_auto/dryp-shoe-pictures/essentials-ss2-t-shirt-'wood'-ss22/display_picture.png",
       "skuId": "APPESSSTSWO",
-      "size": "ALL",
+      "sizes": ["UK 6", "UK 7", "UK 8", "UK 9", "UK 10"],
       "url": "",
       "new": false
     },
@@ -206,7 +206,7 @@
       "imgUrl": "https://res.cloudinary.com/dx8gt3nnu/image/upload/q_auto,f_auto/dryp-shoe-pictures/fear-of-god-essentials-hoodie-'sand'-ss23/display_picture.png",
       "photo1": "https://res.cloudinary.com/dx8gt3nnu/image/upload/q_auto,f_auto/dryp-shoe-pictures/fear-of-god-essentials-hoodie-'sand'-ss23/display_picture.png",
       "skuId": "APPFEOFGOESHOSA",
-      "size": "ALL",
+      "sizes": ["UK 6", "UK 7", "UK 8", "UK 9", "UK 10"],
       "url": "",
       "new": false
     }

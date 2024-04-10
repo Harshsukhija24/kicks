@@ -8,7 +8,7 @@
       "imgUrl": "https://sneakerplug.co.in/cdn/shop/files/D0E33978-FDB8-45DC-A490-E15495C41336_720x.jpg?v=1694195651",
       "photo1": "https://sneakerplug.co.in/cdn/shop/files/D0E33978-FDB8-45DC-A490-E15495C41336_720x.jpg?v=1694195651",
       "skuId": "BLOVUNIAIFO1LOBYVIABBLMESI",
-      "size": "ALL",
+      "sizes": ["UK 6", "UK 7", "UK 8", "UK 9", "UK 10"],
 
       "url": "",
       "new": false
@@ -20,7 +20,7 @@
       "imgUrl": "https://res.cloudinary.com/dx8gt3nnu/image/upload/q_auto,f_auto/dryp-shoe-pictures/louis-vuitton-x-nike-air-force-1-by-virgil-abloh-'green'-ms0242/display_picture.png",
       "photo1": "https://res.cloudinary.com/dx8gt3nnu/image/upload/q_auto,f_auto/dryp-shoe-pictures/louis-vuitton-x-nike-air-force-1-by-virgil-abloh-'green'-ms0242/display_picture.png",
       "skuId": "LOVUXNIAIFO1BYVIABGR",
-      "size": "ALL",
+      "sizes": ["UK 6", "UK 7", "UK 8", "UK 9", "UK 10"],
 
       "url": "https://findyourkicks.com/product/louis-vuitton-x-nike-air-force-1-by-virgil-abloh-green",
       "new": false
@@ -32,7 +32,7 @@
       "imgUrl": "https://cdn.shopify.com/s/files/1/0788/3869/4173/files/IMG_7882.webp?v=1692709547",
       "photo1": "https://cdn.shopify.com/s/files/1/0788/3869/4173/files/IMG_7882.webp?v=1692709547",
       "skuId": "DIXAIJO1HI",
-      "size": "ALL",
+      "sizes": ["UK 6", "UK 7", "UK 8", "UK 9", "UK 10"],
 
       "url": "",
       "new": false
@@ -44,7 +44,7 @@
       "imgUrl": "https://res.cloudinary.com/dx8gt3nnu/image/upload/q_auto,f_auto/dryp-shoe-pictures/louis-vuitton-x-nike-air-force-1-by-virgil-abloh-‘red’-ld0242/display_picture.png",
       "photo1": "https://res.cloudinary.com/dx8gt3nnu/image/upload/q_auto,f_auto/dryp-shoe-pictures/louis-vuitton-x-nike-air-force-1-by-virgil-abloh-‘red’-ld0242/display_picture.png",
       "skuId": "LOVUXNIAIFO1BYVIAB‘R",
-      "size": "ALL",
+      "sizes": ["UK 6", "UK 7", "UK 8", "UK 9", "UK 10"],
 
       "url": "https://findyourkicks.com/product/louis-vuitton-x-nike-air-force-1-by-virgil-abloh-green",
       "new": false
@@ -56,7 +56,7 @@
       "imgUrl": "https://cdn.shopify.com/s/files/1/0788/3869/4173/files/IMG_7874.webp?v=1692709489",
       "photo1": "https://cdn.shopify.com/s/files/1/0788/3869/4173/files/IMG_7874.webp?v=1692709489",
       "skuId": "DIXAIJO1LO",
-      "size": "ALL",
+      "sizes": ["UK 6", "UK 7", "UK 8", "UK 9", "UK 10"],
 
       "url": "",
       "new": false
@@ -68,7 +68,7 @@
       "imgUrl": "https://res.cloudinary.com/dx8gt3nnu/image/upload/q_auto,f_auto/dryp-shoe-pictures/louis-vuitton-x-nike-air-force-1-by-virgil-abloh-'blue'-ms0232/display_picture.png",
       "photo1": "https://res.cloudinary.com/dx8gt3nnu/image/upload/q_auto,f_auto/dryp-shoe-pictures/louis-vuitton-x-nike-air-force-1-by-virgil-abloh-'blue'-ms0232/display_picture.png",
       "skuId": "ALOVUXNIAIFO1BYVIABBL",
-      "size": "ALL",
+      "sizes": ["UK 6", "UK 7", "UK 8", "UK 9", "UK 10"],
 
       "url": "",
       "new": false
@@ -80,7 +80,7 @@
       "imgUrl": "https://crepdogcrew.com/cdn/shop/products/Jordan1RetroHighOff-WhiteWhite_800x.jpg?v=1602760196",
       "photo1": "https://crepdogcrew.com/cdn/shop/products/Jordan1RetroHighOff-WhiteWhite_800x.jpg?v=1602760196",
       "skuId": "JO1REHIOFFWHIWHI",
-      "size": "ALL",
+      "sizes": ["UK 6", "UK 7", "UK 8", "UK 9", "UK 10"],
 
       "url": "",
       "new": false
@@ -92,7 +92,7 @@
       "imgUrl": "https://cdn.shopify.com/s/files/1/0360/6491/9692/products/LouisVuittonNikeAirForce1LowByVirgilAblohBlack_800x.jpg?v=1672399598",
       "photo1": "https://cdn.shopify.com/s/files/1/0360/6491/9692/products/LouisVuittonNikeAirForce1LowByVirgilAblohBlack_800x.jpg?v=1672399598",
       "skuId": "LOVUNIAIFO1LOBYVIABBL",
-      "size": "ALL",
+      "sizes": ["UK 6", "UK 7", "UK 8", "UK 9", "UK 10"],
 
       "url": "https://findyourkicks.com/product/louis-vuitton-x-nike-air-force-1-by-virgil-abloh-green",
       "new": false
@@ -104,7 +104,7 @@
       "imgUrl": "https://res.cloudinary.com/dx8gt3nnu/image/upload/q_auto,f_auto/dryp-shoe-pictures/louis-vuitton-x-nike-air-force-1-by-virgil-abloh-%E2%80%98white%E2%80%99-ld0212/display_picture.png",
       "photo1": "https://res.cloudinary.com/dx8gt3nnu/image/upload/q_auto,f_auto/dryp-shoe-pictures/louis-vuitton-x-nike-air-force-1-by-virgil-abloh-%E2%80%98white%E2%80%99-ld0212/display_picture.png",
       "skuId": "ALOVUXNIAIFO1BYVIAB‘W",
-      "size": "ALL",
+      "sizes": ["UK 6", "UK 7", "UK 8", "UK 9", "UK 10"],
 
       "url": "",
       "new": false
@@ -116,7 +116,7 @@
       "imgUrl": "https://cdn.shopify.com/s/files/1/0788/3869/4173/files/IMG_7896.webp?v=1692776631",
       "photo1": "https://cdn.shopify.com/s/files/1/0788/3869/4173/files/IMG_7896.webp?v=1692776631",
       "skuId": "OFXAIJO1REHIOGCH",
-      "size": "ALL",
+      "sizes": ["UK 6", "UK 7", "UK 8", "UK 9", "UK 10"],
 
       "url": "https://findyourkicks.com/product/off-white-x-air-jordan-1-retro-high-og-chicago",
       "new": false
@@ -128,7 +128,7 @@
       "imgUrl": "https://sneakerplug.co.in/cdn/shop/files/8529D47E-F3D9-4BDA-8A2D-B052E371969A_720x.jpg?v=1692784451",
       "photo1": "https://sneakerplug.co.in/cdn/shop/files/8529D47E-F3D9-4BDA-8A2D-B052E371969A_720x.jpg?v=1692784451",
       "skuId": "BNISBDULOGRDEBEOR",
-      "size": "ALL",
+      "sizes": ["UK 6", "UK 7", "UK 8", "UK 9", "UK 10"],
 
       "url": "",
       "new": false
@@ -140,7 +140,7 @@
       "imgUrl": "https://sneakerplug.co.in/cdn/shop/files/7BA790C7-26E6-4618-B8E0-619DFD5648CF_540x.jpg?v=1698811669",
       "photo1": "https://sneakerplug.co.in/cdn/shop/files/7BA790C7-26E6-4618-B8E0-619DFD5648CF_540x.jpg?v=1698811669",
       "skuId": "BNISBDULOCORELO",
-      "size": "ALL",
+      "sizes": ["UK 6", "UK 7", "UK 8", "UK 9", "UK 10"],
 
       "url": "",
       "new": false
@@ -152,7 +152,7 @@
       "imgUrl": "https://marketplace.mainstreet.co.in/cdn/shop/files/Screenshot2023-07-14183255_1024x1024@2x.png?v=1689339838",
       "photo1": "https://marketplace.mainstreet.co.in/cdn/shop/files/Screenshot2023-07-14183255_1024x1024@2x.png?v=1689339838",
       "skuId": "BDULOPRSBHE",
-      "size": "ALL",
+      "sizes": ["UK 6", "UK 7", "UK 8", "UK 9", "UK 10"],
 
       "url": "",
       "new": false
@@ -164,7 +164,7 @@
       "imgUrl": "https://marketplace.mainstreet.co.in/cdn/shop/files/Screenshot2023-07-14182803_1024x1024@2x.png?v=1689339661",
       "photo1": "https://marketplace.mainstreet.co.in/cdn/shop/files/Screenshot2023-07-14182803_1024x1024@2x.png?v=1689339661",
       "skuId": "BSBDULOCOBLLO",
-      "size": "ALL",
+      "sizes": ["UK 6", "UK 7", "UK 8", "UK 9", "UK 10"],
 
       "url": "",
       "new": false
@@ -176,7 +176,7 @@
       "imgUrl": "https://sneakerplug.co.in/cdn/shop/files/B4AEF0F9-7ABB-4DA6-A8F5-06BAF7B430EE_540x.jpg?v=1699422517",
       "photo1": "https://sneakerplug.co.in/cdn/shop/files/B4AEF0F9-7ABB-4DA6-A8F5-06BAF7B430EE_540x.jpg?v=1699422517",
       "skuId": "BNISBDULOSTCH",
-      "size": "ALL",
+      "sizes": ["UK 6", "UK 7", "UK 8", "UK 9", "UK 10"],
 
       "url": "",
       "new": false
@@ -188,7 +188,7 @@
       "imgUrl": "https://images.stockx.com/360/Nike-Dunk-SB-Low-Tiffany-Diamond/Images/Nike-Dunk-SB-Low-Tiffany-Diamond/Lv2/img01.jpg?fm=jpg&auto=compress&w=480&dpr=2&updated_at=1666596335&h=320&q=60",
       "photo1": "https://images.stockx.com/360/Nike-Dunk-SB-Low-Tiffany-Diamond/Images/Nike-Dunk-SB-Low-Tiffany-Diamond/Lv2/img01.jpg?fm=jpg&auto=compress&w=480&dpr=2&updated_at=1666596335&h=320&q=60",
       "skuId": "BNISBDULODISUCO",
-      "size": "ALL",
+      "sizes": ["UK 6", "UK 7", "UK 8", "UK 9", "UK 10"],
 
       "url": "",
       "new": false
@@ -200,7 +200,7 @@
       "imgUrl": "https://marketplace.mainstreet.co.in/cdn/shop/files/KAWSxAirJordan4Retro_CoolGrey_2_254059a3-83b2-4015-be75-37d4d5b0b77b_1024x1024@2x.jpg?v=1694499682",
       "photo1": "https://marketplace.mainstreet.co.in/cdn/shop/files/KAWSxAirJordan4Retro_CoolGrey_2_254059a3-83b2-4015-be75-37d4d5b0b77b_1024x1024@2x.jpg?v=1694499682",
       "skuId": "JO4REKA",
-      "size": "ALL",
+      "sizes": ["UK 6", "UK 7", "UK 8", "UK 9", "UK 10"],
 
       "url": "",
       "new": false
@@ -212,7 +212,7 @@
       "imgUrl": "https://cdn.shopify.com/s/files/1/0788/3869/4173/files/IMG_7949.webp?v=1692782469",
       "photo1": "https://cdn.shopify.com/s/files/1/0788/3869/4173/files/IMG_7949.webp?v=1692782469",
       "skuId": "FRDEXTRSCXAIJO1REHI",
-      "size": "ALL",
+      "sizes": ["UK 6", "UK 7", "UK 8", "UK 9", "UK 10"],
 
       "url": "https://findyourkicks.com/product/fragment-design-x-travis-scott-x-air-jordan-1-retro-high",
       "new": false
@@ -224,7 +224,7 @@
       "imgUrl": "https://cdn.shopify.com/s/files/1/0568/5044/8524/products/image_30c53de8-5aa8-442e-ada0-633f50b79709_720x.jpg?v=1669537334",
       "photo1": "https://cdn.shopify.com/s/files/1/0568/5044/8524/products/image_30c53de8-5aa8-442e-ada0-633f50b79709_720x.jpg?v=1669537334",
       "skuId": "NIAI1LOOFMCUNBL",
-      "size": "ALL",
+      "sizes": ["UK 6", "UK 7", "UK 8", "UK 9", "UK 10"],
 
       "url": "",
       "new": false
@@ -236,7 +236,7 @@
       "imgUrl": "https://sneakerplug.co.in/cdn/shop/files/image_7563fea9-90b7-4338-9762-df0ec444c8fc_720x.jpg?v=1683876769",
       "photo1": "https://sneakerplug.co.in/cdn/shop/files/image_7563fea9-90b7-4338-9762-df0ec444c8fc_720x.jpg?v=1683876769",
       "skuId": "BNIAIMA90OF",
-      "size": "ALL",
+      "sizes": ["UK 6", "UK 7", "UK 8", "UK 9", "UK 10"],
 
       "url": "",
       "new": false
@@ -248,7 +248,7 @@
       "imgUrl": "https://sneakerplug.co.in/cdn/shop/products/DIORB713CACTUSJACKMOCHAMAUVE.jpg?v=1680118646",
       "photo1": "https://sneakerplug.co.in/cdn/shop/products/DIORB713CACTUSJACKMOCHAMAUVE.jpg?v=1680118646",
       "skuId": "BDIB7CAJAMOMA",
-      "size": "ALL",
+      "sizes": ["UK 6", "UK 7", "UK 8", "UK 9", "UK 10"],
 
       "url": "",
       "new": false
@@ -260,7 +260,7 @@
       "imgUrl": "https://www.hyperyno.com/public/uploads/product_media/181635573067p178709_01.jpg.jpeg",
       "photo1": "https://www.hyperyno.com/public/uploads/product_media/181635573067p178709_01.jpg.jpeg",
       "skuId": "JO4REKABL",
-      "size": "ALL",
+      "sizes": ["UK 6", "UK 7", "UK 8", "UK 9", "UK 10"],
 
       "url": "",
       "new": false
@@ -272,7 +272,7 @@
       "imgUrl": "https://cdn.shopify.com/s/files/1/0788/3869/4173/products/jordan-air-jordan-1-retro-high-og-nrg-union-storm-blue_13678515_42978362_2048.jpg?v=1706719887",
       "photo1": "https://cdn.shopify.com/s/files/1/0788/3869/4173/products/jordan-air-jordan-1-retro-high-og-nrg-union-storm-blue_13678515_42978362_2048.jpg?v=1706719887",
       "skuId": "UNLAXAIJO1REHINRSTBL",
-      "size": "ALL",
+      "sizes": ["UK 6", "UK 7", "UK 8", "UK 9", "UK 10"],
 
       "url": "https://findyourkicks.com/product/union-la-x-air-jordan-1-retro-high-nrg-black-toe",
       "new": false
@@ -284,7 +284,7 @@
       "imgUrl": "https://cdn.shopify.com/s/files/1/0788/3869/4173/products/nike-sb-dunk-low-qs-special-box-travis-scott_15237343_43112514_2048.jpg?v=1706719896",
       "photo1": "https://cdn.shopify.com/s/files/1/0788/3869/4173/products/nike-sb-dunk-low-qs-special-box-travis-scott_15237343_43112514_2048.jpg?v=1706719896",
       "skuId": "TRSCXDULOPRQSSBCAJA",
-      "size": "ALL",
+      "sizes": ["UK 6", "UK 7", "UK 8", "UK 9", "UK 10"],
       "marketplaces": {
         "DSWT": {
           "url": "https://dswt.in",
@@ -537,7 +537,7 @@
       "imgUrl": "https://crepdogcrew.com/cdn/shop/files/NIKESBDUNKLOWTRAVISSCOTT_SPECIALBOX_800x.jpg?v=1696939959",
       "photo1": "https://crepdogcrew.com/cdn/shop/files/NIKESBDUNKLOWTRAVISSCOTT_SPECIALBOX_800x.jpg?v=1696939959",
       "skuId": "BNISBDULOTRSC(SBO",
-      "size": "ALL",
+      "sizes": ["UK 6", "UK 7", "UK 8", "UK 9", "UK 10"],
 
       "url": "",
       "new": false
@@ -549,7 +549,7 @@
       "imgUrl": "https://cdn.shopify.com/s/files/1/0788/3869/4173/products/nike-x-off-white-air-force-1-low-off-white-brooklyn_18429909_45627484_2048.jpg?v=1706240721",
       "photo1": "https://cdn.shopify.com/s/files/1/0788/3869/4173/products/nike-x-off-white-air-force-1-low-off-white-brooklyn_18429909_45627484_2048.jpg?v=1706240721",
       "skuId": "NIAIFO1LOOFBR",
-      "size": "ALL",
+      "sizes": ["UK 6", "UK 7", "UK 8", "UK 9", "UK 10"],
 
       "url": "",
       "new": false
@@ -561,7 +561,7 @@
       "imgUrl": "https://cdn.shopify.com/s/files/1/0788/3869/4173/products/jordan-air-jordan-1-low-travis-scott_14366145_43014214_2048.jpg?v=1706719957",
       "photo1": "https://cdn.shopify.com/s/files/1/0788/3869/4173/products/jordan-air-jordan-1-low-travis-scott_14366145_43014214_2048.jpg?v=1706719957",
       "skuId": "TRSCXAIJO1LOMO",
-      "size": "ALL",
+      "sizes": ["UK 6", "UK 7", "UK 8", "UK 9", "UK 10"],
 
       "url": "https://findyourkicks.com/product/travis-scott-x-air-jordan-1-low-mocha",
       "new": false
@@ -573,7 +573,7 @@
       "imgUrl": "https://sneakerplug.co.in/cdn/shop/products/blackdenim_720x.jpg?v=1680014993",
       "photo1": "https://sneakerplug.co.in/cdn/shop/products/blackdenim_720x.jpg?v=1680014993",
       "skuId": "BLOVULVTRVESTMODEBLWH",
-      "size": "ALL",
+      "sizes": ["UK 6", "UK 7", "UK 8", "UK 9", "UK 10"],
 
       "url": "",
       "new": false
@@ -585,7 +585,7 @@
       "imgUrl": "https://sneakerplug.co.in/cdn/shop/products/spimonopng_720x.png?v=1679732259",
       "photo1": "https://sneakerplug.co.in/cdn/shop/products/spimonopng_720x.png?v=1679732259",
       "skuId": "BLOVUTRMODE",
-      "size": "ALL",
+      "sizes": ["UK 6", "UK 7", "UK 8", "UK 9", "UK 10"],
 
       "url": "",
       "new": false
@@ -597,7 +597,7 @@
       "imgUrl": "https://sneakerplug.co.in/cdn/shop/files/13FC460E-4FC0-41B3-ABE1-6712A45C51C5_720x.jpg?v=1692876610",
       "photo1": "https://sneakerplug.co.in/cdn/shop/files/13FC460E-4FC0-41B3-ABE1-6712A45C51C5_720x.jpg?v=1692876610",
       "skuId": "BJO1REHIUNLOANBLTO",
-      "size": "ALL",
+      "sizes": ["UK 6", "UK 7", "UK 8", "UK 9", "UK 10"],
 
       "url": "",
       "new": false
@@ -610,7 +610,7 @@
       "imgUrl": "https://cdn.shopify.com/s/files/1/0788/3869/4173/products/nike-kobe-6-protro-all-star_16557596_43002985_2048.jpg?v=1706718727",
       "photo1": "https://cdn.shopify.com/s/files/1/0788/3869/4173/products/nike-kobe-6-protro-all-star_16557596_43002985_2048.jpg?v=1706718727",
       "skuId": "AZOKO6PRALST",
-      "size": "ALL",
+      "sizes": ["UK 6", "UK 7", "UK 8", "UK 9", "UK 10"],
 
       "url": "",
       "new": false
@@ -622,7 +622,7 @@
       "imgUrl": "https://images.stockx.com/360/Nike-Kobe-4-Protro-Gift-of-Mamba/Images/Nike-Kobe-4-Protro-Gift-of-Mamba/Lv2/img19.jpg?fm=avif&auto=compress&w=576&dpr=1&updated_at=1703780332&h=384&q=57",
       "photo1": "https://images.stockx.com/360/Nike-Kobe-4-Protro-Gift-of-Mamba/Images/Nike-Kobe-4-Protro-Gift-of-Mamba/Lv2/img19.jpg?fm=avif&auto=compress&w=576&dpr=1&updated_at=1703780332&h=384&q=57",
       "skuId": "BZOKO4PRGIOFMA",
-      "size": "ALL",
+      "sizes": ["UK 6", "UK 7", "UK 8", "UK 9", "UK 10"],
 
       "url": "",
       "new": false
@@ -634,7 +634,7 @@
       "imgUrl": "https://cdn.shopify.com/s/files/1/0788/3869/4173/files/IMG_8185.webp?v=1692787257",
       "photo1": "https://cdn.shopify.com/s/files/1/0788/3869/4173/files/IMG_8185.webp?v=1692787257",
       "skuId": "ZIWIXAIJO1LOOGVO",
-      "size": "ALL",
+      "sizes": ["UK 6", "UK 7", "UK 8", "UK 9", "UK 10"],
 
       "url": "",
       "new": false
@@ -646,7 +646,7 @@
       "imgUrl": "https://cdn.shopify.com/s/files/1/0788/3869/4173/products/nike-sb-dunk-low-yuto-horigome_21250097_46845885_2048.jpg?v=1706718736",
       "photo1": "https://cdn.shopify.com/s/files/1/0788/3869/4173/products/nike-sb-dunk-low-yuto-horigome_21250097_46845885_2048.jpg?v=1706718736",
       "skuId": "BYUHOXDULOSB",
-      "size": "ALL",
+      "sizes": ["UK 6", "UK 7", "UK 8", "UK 9", "UK 10"],
 
       "url": "",
       "new": false
@@ -658,7 +658,7 @@
       "imgUrl": "https://www.solesearchindia.com/_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Fdx8gt3nnu%2Fimage%2Fupload%2Fq_100%2Cf_webp%2Fw_854%2Fproduct-images%2Fyu-gi-oh!-x-adidas-adi2000-%27core-black%27-h06442%2Fdisplay_picture.png&w=640&q=100",
       "photo1": "https://www.solesearchindia.com/_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Fdx8gt3nnu%2Fimage%2Fupload%2Fq_100%2Cf_webp%2Fw_854%2Fproduct-images%2Fyu-gi-oh!-x-adidas-adi2000-%27core-black%27-h06442%2Fdisplay_picture.png&w=640&q=100",
       "skuId": "BYUXADADCOBL",
-      "size": "ALL",
+      "sizes": ["UK 6", "UK 7", "UK 8", "UK 9", "UK 10"],
 
       "url": "",
       "new": false
@@ -670,7 +670,7 @@
       "imgUrl": "https://res.cloudinary.com/dx8gt3nnu/image/upload/q_auto,f_auto/dryp-shoe-pictures/yeezy-slides-'soot'-2021-gx6141/display_picture.png",
       "photo1": "https://res.cloudinary.com/dx8gt3nnu/image/upload/q_auto,f_auto/dryp-shoe-pictures/yeezy-slides-'soot'-2021-gx6141/display_picture.png",
       "skuId": "YESLSO20",
-      "size": "ALL",
+      "sizes": ["UK 6", "UK 7", "UK 8", "UK 9", "UK 10"],
 
       "url": "https://findyourkicks.com/product/yeezy-slides-soot-2021",
       "new": false
@@ -682,7 +682,7 @@
       "imgUrl": "https://cdn.shopify.com/s/files/1/0788/3869/4173/products/adidas-yeezy-slide-slate-grey_21023982_46957624_2048.jpg?v=1706718744",
       "photo1": "https://cdn.shopify.com/s/files/1/0788/3869/4173/products/adidas-yeezy-slide-slate-grey_21023982_46957624_2048.jpg?v=1706718744",
       "skuId": "BYESLSALGRE",
-      "size": "ALL",
+      "sizes": ["UK 6", "UK 7", "UK 8", "UK 9", "UK 10"],
 
       "url": "https://findyourkicks.com/product/yeezy-slides-slate-grey",
       "new": false
@@ -694,7 +694,7 @@
       "imgUrl": "https://cdn.shopify.com/s/files/1/0788/3869/4173/products/adidas-yeezy-yeezy-slide-resin-2022_19100728_43165662_2048.jpg?v=1706718752",
       "photo1": "https://cdn.shopify.com/s/files/1/0788/3869/4173/products/adidas-yeezy-yeezy-slide-resin-2022_19100728_43165662_2048.jpg?v=1706718752",
       "skuId": "YESLRE20",
-      "size": "ALL",
+      "sizes": ["UK 6", "UK 7", "UK 8", "UK 9", "UK 10"],
 
       "url": "https://findyourkicks.com/product/yeezy-slides-resin-2021",
       "new": false
@@ -706,7 +706,7 @@
       "imgUrl": "https://cdn.shopify.com/s/files/1/0360/6491/9692/products/image_c7dd8cd0-2334-4327-ab66-fbd33551d2c3_1024x.jpg?v=1612967174",
       "photo1": "https://cdn.shopify.com/s/files/1/0360/6491/9692/products/image_c7dd8cd0-2334-4327-ab66-fbd33551d2c3_1024x.jpg?v=1612967174",
       "skuId": "YESLSO",
-      "size": "ALL",
+      "sizes": ["UK 6", "UK 7", "UK 8", "UK 9", "UK 10"],
 
       "url": "",
       "new": false
@@ -718,7 +718,7 @@
       "imgUrl": "https://cdn.shopify.com/s/files/1/0788/3869/4173/files/adidas-yeezy-slide-onyx-2022-2023_18132062_43086634_10001.jpg?v=1692213799",
       "photo1": "https://cdn.shopify.com/s/files/1/0788/3869/4173/files/adidas-yeezy-slide-onyx-2022-2023_18132062_43086634_10001.jpg?v=1692213799",
       "skuId": "YESLON",
-      "size": "ALL",
+      "sizes": ["UK 6", "UK 7", "UK 8", "UK 9", "UK 10"],
 
       "url": "https://findyourkicks.com/product/yeezy-slides-onyx",
       "new": false
@@ -730,7 +730,7 @@
       "imgUrl": "https://cdn.shopify.com/s/files/1/0788/3869/4173/products/adidas-yeezy-yeezy-slide-ochre_17718592_43078110_2048.jpg?v=1706718760",
       "photo1": "https://cdn.shopify.com/s/files/1/0788/3869/4173/products/adidas-yeezy-yeezy-slide-ochre_17718592_43078110_2048.jpg?v=1706718760",
       "skuId": "YESLOC",
-      "size": "ALL",
+      "sizes": ["UK 6", "UK 7", "UK 8", "UK 9", "UK 10"],
 
       "url": "https://findyourkicks.com/product/yeezy-slides-ochre",
       "new": false
@@ -742,7 +742,7 @@
       "imgUrl": "https://cdn.shopify.com/s/files/1/0788/3869/4173/files/adidas-yeezy-slide-slate-marine_21015018_46187467_2048.webp?v=1692819775",
       "photo1": "https://cdn.shopify.com/s/files/1/0788/3869/4173/files/adidas-yeezy-slide-slate-marine_21015018_46187467_2048.webp?v=1692819775",
       "skuId": "YEESLTMARSLI",
-      "size": "ALL",
+      "sizes": ["UK 6", "UK 7", "UK 8", "UK 9", "UK 10"],
 
       "url": "https://findyourkicks.com/product/yeezy-slides-slate-marine",
       "new": false
@@ -754,7 +754,7 @@
       "imgUrl": "https://cdn.shopify.com/s/files/1/0788/3869/4173/products/adidas-yeezy-slide-granite_21014064_46959696_2048.jpg?v=1706718770",
       "photo1": "https://cdn.shopify.com/s/files/1/0788/3869/4173/products/adidas-yeezy-slide-granite_21014064_46959696_2048.jpg?v=1706718770",
       "skuId": "BYESLGRANITE",
-      "size": "ALL",
+      "sizes": ["UK 6", "UK 7", "UK 8", "UK 9", "UK 10"],
 
       "url": "https://findyourkicks.com/product/yeezy-slides-granite",
       "new": false
@@ -766,7 +766,7 @@
       "imgUrl": "https://cdn.shopify.com/s/files/1/0788/3869/4173/products/adidas-yeezy-yeezy-slide-bone-2022_18909670_45631814_2048.jpg?v=1706718777",
       "photo1": "https://cdn.shopify.com/s/files/1/0788/3869/4173/products/adidas-yeezy-yeezy-slide-bone-2022_18909670_45631814_2048.jpg?v=1706718777",
       "skuId": "YESLBO20",
-      "size": "ALL",
+      "sizes": ["UK 6", "UK 7", "UK 8", "UK 9", "UK 10"],
 
       "url": "https://findyourkicks.com/product/yeezy-slides-bone-2022",
       "new": false
@@ -778,7 +778,7 @@
       "imgUrl": "https://cdn.shopify.com/s/files/1/0788/3869/4173/files/adidas-yeezy-slide-azure_20362205_45672091_10001.webp?v=1692213769",
       "photo1": "https://cdn.shopify.com/s/files/1/0788/3869/4173/files/adidas-yeezy-slide-azure_20362205_45672091_10001.webp?v=1692213769",
       "skuId": "YESLIAZURE",
-      "size": "ALL",
+      "sizes": ["UK 6", "UK 7", "UK 8", "UK 9", "UK 10"],
 
       "url": "https://findyourkicks.com/product/adidas-yeezy-slide-azure",
       "new": false
@@ -790,7 +790,7 @@
       "imgUrl": "https://cdn.shopify.com/s/files/1/0788/3869/4173/products/adidas-yeezy-yeezy-slide-pure_16811347_43052960_2048.jpg?v=1706718790",
       "photo1": "https://cdn.shopify.com/s/files/1/0788/3869/4173/products/adidas-yeezy-yeezy-slide-pure_16811347_43052960_2048.jpg?v=1706718790",
       "skuId": "YESLPU20",
-      "size": "ALL",
+      "sizes": ["UK 6", "UK 7", "UK 8", "UK 9", "UK 10"],
 
       "url": "https://findyourkicks.com/product/yeezy-slide-pure-2021",
       "new": false
@@ -802,7 +802,7 @@
       "imgUrl": "https://cdn.shopify.com/s/files/1/0788/3869/4173/files/adidas-yeezy-yeezy-slide-glow-green-2022_18499114_45629534_2048.webp?v=1692819804",
       "photo1": "https://cdn.shopify.com/s/files/1/0788/3869/4173/files/adidas-yeezy-yeezy-slide-glow-green-2022_18499114_45629534_2048.webp?v=1692819804",
       "skuId": "YESLGLGR",
-      "size": "ALL",
+      "sizes": ["UK 6", "UK 7", "UK 8", "UK 9", "UK 10"],
 
       "url": "https://findyourkicks.com/product/yeezy-slide-glow-green",
       "new": false
@@ -814,7 +814,7 @@
       "imgUrl": "https://cdn.shopify.com/s/files/1/0788/3869/4173/products/adidas-yeezy-yeezy-slide-flax_18927068_45637465_2048.jpg?v=1706718799",
       "photo1": "https://cdn.shopify.com/s/files/1/0788/3869/4173/products/adidas-yeezy-yeezy-slide-flax_18927068_45637465_2048.jpg?v=1706718799",
       "skuId": "YESLFL",
-      "size": "ALL",
+      "sizes": ["UK 6", "UK 7", "UK 8", "UK 9", "UK 10"],
 
       "url": "https://findyourkicks.com/product/yeezy-slide-flax",
       "new": false
@@ -826,7 +826,7 @@
       "imgUrl": "http://cdn.shopify.com/s/files/1/0568/5044/8524/products/image_c20d0199-77da-4c83-a9f7-5b38cd98799c_1200x1200.jpg?v=1647967034",
       "photo1": "http://cdn.shopify.com/s/files/1/0568/5044/8524/products/image_c20d0199-77da-4c83-a9f7-5b38cd98799c_1200x1200.jpg?v=1647967034",
       "skuId": "YESLEN",
-      "size": "ALL",
+      "sizes": ["UK 6", "UK 7", "UK 8", "UK 9", "UK 10"],
 
       "url": "",
       "new": false
@@ -838,7 +838,7 @@
       "imgUrl": "https://res.cloudinary.com/dx8gt3nnu/image/upload/q_auto,f_auto/dryp-shoe-pictures/yeezy-quantum-'quantum'-q46473/display_picture.png",
       "photo1": "https://res.cloudinary.com/dx8gt3nnu/image/upload/q_auto,f_auto/dryp-shoe-pictures/yeezy-quantum-'quantum'-q46473/display_picture.png",
       "skuId": "YEQUQU",
-      "size": "ALL",
+      "sizes": ["UK 6", "UK 7", "UK 8", "UK 9", "UK 10"],
 
       "url": "https://findyourkicks.com/product/yeezy-quantum-onyx",
       "new": false
@@ -850,7 +850,7 @@
       "imgUrl": "https://res.cloudinary.com/dx8gt3nnu/image/upload/q_auto,f_auto/dryp-shoe-pictures/yeezy-quantum-'onyx'-yzyquanonyx/display_picture.png",
       "photo1": "https://res.cloudinary.com/dx8gt3nnu/image/upload/q_auto,f_auto/dryp-shoe-pictures/yeezy-quantum-'onyx'-yzyquanonyx/display_picture.png",
       "skuId": "YEQUON",
-      "size": "ALL",
+      "sizes": ["UK 6", "UK 7", "UK 8", "UK 9", "UK 10"],
 
       "url": "https://findyourkicks.com/product/yeezy-quantum-onyx",
       "new": false
@@ -862,7 +862,7 @@
       "imgUrl": "https://res.cloudinary.com/dx8gt3nnu/image/upload/q_auto,f_auto/dryp-shoe-pictures/yeezy-quantum-'flash-orange'-gw5314/display_picture.png",
       "photo1": "https://res.cloudinary.com/dx8gt3nnu/image/upload/q_auto,f_auto/dryp-shoe-pictures/yeezy-quantum-'flash-orange'-gw5314/display_picture.png",
       "skuId": "YEQUFLOR",
-      "size": "ALL",
+      "sizes": ["UK 6", "UK 7", "UK 8", "UK 9", "UK 10"],
 
       "url": "",
       "new": false
@@ -874,7 +874,7 @@
       "imgUrl": "https://res.cloudinary.com/dx8gt3nnu/image/upload/q_auto,f_auto/dryp-shoe-pictures/yeezy-quantum-'barium'-h68771/display_picture.png",
       "photo1": "https://res.cloudinary.com/dx8gt3nnu/image/upload/q_auto,f_auto/dryp-shoe-pictures/yeezy-quantum-'barium'-h68771/display_picture.png",
       "skuId": "YEQUBA",
-      "size": "ALL",
+      "sizes": ["UK 6", "UK 7", "UK 8", "UK 9", "UK 10"],
 
       "url": "",
       "new": false
@@ -886,7 +886,7 @@
       "imgUrl": "https://hypefly-assets.s3.ap-south-1.amazonaws.com/media/products/desktop_full_size/116-desktop_full_size.webp",
       "photo1": "https://hypefly-assets.s3.ap-south-1.amazonaws.com/media/products/desktop_full_size/116-desktop_full_size.webp",
       "skuId": "YEKNRUFAIN",
-      "size": "ALL",
+      "sizes": ["UK 6", "UK 7", "UK 8", "UK 9", "UK 10"],
 
       "url": "",
       "new": false
@@ -898,7 +898,7 @@
       "imgUrl": "https://images.stockx.com/images/Yeezy-x-GAP-Hoodie-Red.jpg?fit=fill&bg=FFFFFF&w=1200&h=857&fm=webp&auto=compress&dpr=2&trim=color&updated_at=1632921116&q=60",
       "photo1": "https://images.stockx.com/images/Yeezy-x-GAP-Hoodie-Red.jpg?fit=fill&bg=FFFFFF&w=1200&h=857&fm=webp&auto=compress&dpr=2&trim=color&updated_at=1632921116&q=60",
       "skuId": "APPYEGAHO‘R",
-      "size": "ALL",
+      "sizes": ["UK 6", "UK 7", "UK 8", "UK 9", "UK 10"],
 
       "url": "",
       "new": false
@@ -910,7 +910,7 @@
       "imgUrl": "https://res.cloudinary.com/dx8gt3nnu/image/upload/q_auto,f_auto/dryp-shoe-pictures/yeezy-foam-runner-'vermilion'-gw3355/display_picture.png",
       "photo1": "https://res.cloudinary.com/dx8gt3nnu/image/upload/q_auto,f_auto/dryp-shoe-pictures/yeezy-foam-runner-'vermilion'-gw3355/display_picture.png",
       "skuId": "YEFORUVE",
-      "size": "ALL",
+      "sizes": ["UK 6", "UK 7", "UK 8", "UK 9", "UK 10"],
 
       "url": "",
       "new": false
@@ -922,7 +922,7 @@
       "imgUrl": "https://cdn.shopify.com/s/files/1/0788/3869/4173/products/adidas-yeezy-yeezy-foam-runner-sulfur_18377450_45633960_2048.jpg?v=1706718817",
       "photo1": "https://cdn.shopify.com/s/files/1/0788/3869/4173/products/adidas-yeezy-yeezy-foam-runner-sulfur_18377450_45633960_2048.jpg?v=1706718817",
       "skuId": "YEFORUSU",
-      "size": "ALL",
+      "sizes": ["UK 6", "UK 7", "UK 8", "UK 9", "UK 10"],
 
       "url": "",
       "new": false
@@ -934,7 +934,7 @@
       "imgUrl": "https://cdn.shopify.com/s/files/1/0788/3869/4173/files/2_4bad4e6e-a431-40d5-a9bf-9e9fe5aa9d75.png?v=1692824378",
       "photo1": "https://cdn.shopify.com/s/files/1/0788/3869/4173/files/2_4bad4e6e-a431-40d5-a9bf-9e9fe5aa9d75.png?v=1692824378",
       "skuId": "YEFORNSTONESALT",
-      "size": "ALL",
+      "sizes": ["UK 6", "UK 7", "UK 8", "UK 9", "UK 10"],
 
       "url": "https://findyourkicks.com/product/yeezy-foam-runner-stone-salt",
       "new": false
@@ -946,7 +946,7 @@
       "imgUrl": "https://cdn.shopify.com/s/files/1/0788/3869/4173/products/adidas-yeezy-yeezy-foam-runner-stone-sage_18132084_43083500_2048.jpg?v=1706718826",
       "photo1": "https://cdn.shopify.com/s/files/1/0788/3869/4173/products/adidas-yeezy-yeezy-foam-runner-stone-sage_18132084_43083500_2048.jpg?v=1706718826",
       "skuId": "YEFORUSTSA",
-      "size": "ALL",
+      "sizes": ["UK 6", "UK 7", "UK 8", "UK 9", "UK 10"],
 
       "url": "",
       "new": false
@@ -958,7 +958,7 @@
       "imgUrl": "https://cdn.shopify.com/s/files/1/0788/3869/4173/products/adidas-yeezy-yeezy-foam-runner-sand_16658089_43003387_2048.jpg?v=1706718836",
       "photo1": "https://cdn.shopify.com/s/files/1/0788/3869/4173/products/adidas-yeezy-yeezy-foam-runner-sand_16658089_43003387_2048.jpg?v=1706718836",
       "skuId": "YEFORUSA",
-      "size": "ALL",
+      "sizes": ["UK 6", "UK 7", "UK 8", "UK 9", "UK 10"],
 
       "url": "https://findyourkicks.com/product/yeezy-foam-runner-sand",
       "new": false
@@ -971,7 +971,7 @@
       "imgUrl": "https://cdn.shopify.com/s/files/1/0788/3869/4173/products/nike-kobe-6-protro-all-star_16557596_43002985_2048.jpg?v=1706718727",
       "photo1": "https://cdn.shopify.com/s/files/1/0788/3869/4173/products/nike-kobe-6-protro-all-star_16557596_43002985_2048.jpg?v=1706718727",
       "skuId": "AZOKO6PRALST",
-      "size": "ALL",
+      "sizes": ["UK 6", "UK 7", "UK 8", "UK 9", "UK 10"],
 
       "url": "",
       "new": false
@@ -983,7 +983,7 @@
       "imgUrl": "https://images.stockx.com/360/Nike-Kobe-4-Protro-Gift-of-Mamba/Images/Nike-Kobe-4-Protro-Gift-of-Mamba/Lv2/img19.jpg?fm=avif&auto=compress&w=576&dpr=1&updated_at=1703780332&h=384&q=57",
       "photo1": "https://images.stockx.com/360/Nike-Kobe-4-Protro-Gift-of-Mamba/Images/Nike-Kobe-4-Protro-Gift-of-Mamba/Lv2/img19.jpg?fm=avif&auto=compress&w=576&dpr=1&updated_at=1703780332&h=384&q=57",
       "skuId": "BZOKO4PRGIOFMA",
-      "size": "ALL",
+      "sizes": ["UK 6", "UK 7", "UK 8", "UK 9", "UK 10"],
 
       "url": "",
       "new": false
@@ -995,7 +995,7 @@
       "imgUrl": "https://cdn.shopify.com/s/files/1/0788/3869/4173/files/IMG_8185.webp?v=1692787257",
       "photo1": "https://cdn.shopify.com/s/files/1/0788/3869/4173/files/IMG_8185.webp?v=1692787257",
       "skuId": "ZIWIXAIJO1LOOGVO",
-      "size": "ALL",
+      "sizes": ["UK 6", "UK 7", "UK 8", "UK 9", "UK 10"],
 
       "url": "",
       "new": false
@@ -1007,7 +1007,7 @@
       "imgUrl": "https://cdn.shopify.com/s/files/1/0788/3869/4173/products/nike-sb-dunk-low-yuto-horigome_21250097_46845885_2048.jpg?v=1706718736",
       "photo1": "https://cdn.shopify.com/s/files/1/0788/3869/4173/products/nike-sb-dunk-low-yuto-horigome_21250097_46845885_2048.jpg?v=1706718736",
       "skuId": "BYUHOXDULOSB",
-      "size": "ALL",
+      "sizes": ["UK 6", "UK 7", "UK 8", "UK 9", "UK 10"],
 
       "url": "",
       "new": false
@@ -1019,7 +1019,7 @@
       "imgUrl": "https://www.solesearchindia.com/_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Fdx8gt3nnu%2Fimage%2Fupload%2Fq_100%2Cf_webp%2Fw_854%2Fproduct-images%2Fyu-gi-oh!-x-adidas-adi2000-%27core-black%27-h06442%2Fdisplay_picture.png&w=640&q=100",
       "photo1": "https://www.solesearchindia.com/_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Fdx8gt3nnu%2Fimage%2Fupload%2Fq_100%2Cf_webp%2Fw_854%2Fproduct-images%2Fyu-gi-oh!-x-adidas-adi2000-%27core-black%27-h06442%2Fdisplay_picture.png&w=640&q=100",
       "skuId": "BYUXADADCOBL",
-      "size": "ALL",
+      "sizes": ["UK 6", "UK 7", "UK 8", "UK 9", "UK 10"],
 
       "url": "",
       "new": false
@@ -1031,7 +1031,7 @@
       "imgUrl": "https://res.cloudinary.com/dx8gt3nnu/image/upload/q_auto,f_auto/dryp-shoe-pictures/yeezy-slides-'soot'-2021-gx6141/display_picture.png",
       "photo1": "https://res.cloudinary.com/dx8gt3nnu/image/upload/q_auto,f_auto/dryp-shoe-pictures/yeezy-slides-'soot'-2021-gx6141/display_picture.png",
       "skuId": "YESLSO20",
-      "size": "ALL",
+      "sizes": ["UK 6", "UK 7", "UK 8", "UK 9", "UK 10"],
 
       "url": "https://findyourkicks.com/product/yeezy-slides-soot-2021",
       "new": false
@@ -1043,7 +1043,7 @@
       "imgUrl": "https://cdn.shopify.com/s/files/1/0788/3869/4173/products/adidas-yeezy-slide-slate-grey_21023982_46957624_2048.jpg?v=1706718744",
       "photo1": "https://cdn.shopify.com/s/files/1/0788/3869/4173/products/adidas-yeezy-slide-slate-grey_21023982_46957624_2048.jpg?v=1706718744",
       "skuId": "BYESLSALGRE",
-      "size": "ALL",
+      "sizes": ["UK 6", "UK 7", "UK 8", "UK 9", "UK 10"],
 
       "url": "https://findyourkicks.com/product/yeezy-slides-slate-grey",
       "new": false
@@ -1055,7 +1055,7 @@
       "imgUrl": "https://cdn.shopify.com/s/files/1/0788/3869/4173/products/adidas-yeezy-yeezy-slide-resin-2022_19100728_43165662_2048.jpg?v=1706718752",
       "photo1": "https://cdn.shopify.com/s/files/1/0788/3869/4173/products/adidas-yeezy-yeezy-slide-resin-2022_19100728_43165662_2048.jpg?v=1706718752",
       "skuId": "YESLRE20",
-      "size": "ALL",
+      "sizes": ["UK 6", "UK 7", "UK 8", "UK 9", "UK 10"],
 
       "url": "https://findyourkicks.com/product/yeezy-slides-resin-2021",
       "new": false
@@ -1067,7 +1067,7 @@
       "imgUrl": "https://cdn.shopify.com/s/files/1/0360/6491/9692/products/image_c7dd8cd0-2334-4327-ab66-fbd33551d2c3_1024x.jpg?v=1612967174",
       "photo1": "https://cdn.shopify.com/s/files/1/0360/6491/9692/products/image_c7dd8cd0-2334-4327-ab66-fbd33551d2c3_1024x.jpg?v=1612967174",
       "skuId": "YESLSO",
-      "size": "ALL",
+      "sizes": ["UK 6", "UK 7", "UK 8", "UK 9", "UK 10"],
 
       "url": "",
       "new": false
@@ -1079,7 +1079,7 @@
       "imgUrl": "https://cdn.shopify.com/s/files/1/0788/3869/4173/files/adidas-yeezy-slide-onyx-2022-2023_18132062_43086634_10001.jpg?v=1692213799",
       "photo1": "https://cdn.shopify.com/s/files/1/0788/3869/4173/files/adidas-yeezy-slide-onyx-2022-2023_18132062_43086634_10001.jpg?v=1692213799",
       "skuId": "YESLON",
-      "size": "ALL",
+      "sizes": ["UK 6", "UK 7", "UK 8", "UK 9", "UK 10"],
 
       "url": "https://findyourkicks.com/product/yeezy-slides-onyx",
       "new": false
@@ -1091,7 +1091,7 @@
       "imgUrl": "https://cdn.shopify.com/s/files/1/0788/3869/4173/products/adidas-yeezy-yeezy-slide-ochre_17718592_43078110_2048.jpg?v=1706718760",
       "photo1": "https://cdn.shopify.com/s/files/1/0788/3869/4173/products/adidas-yeezy-yeezy-slide-ochre_17718592_43078110_2048.jpg?v=1706718760",
       "skuId": "YESLOC",
-      "size": "ALL",
+      "sizes": ["UK 6", "UK 7", "UK 8", "UK 9", "UK 10"],
 
       "url": "https://findyourkicks.com/product/yeezy-slides-ochre",
       "new": false
@@ -1103,7 +1103,7 @@
       "imgUrl": "https://cdn.shopify.com/s/files/1/0788/3869/4173/files/adidas-yeezy-slide-slate-marine_21015018_46187467_2048.webp?v=1692819775",
       "photo1": "https://cdn.shopify.com/s/files/1/0788/3869/4173/files/adidas-yeezy-slide-slate-marine_21015018_46187467_2048.webp?v=1692819775",
       "skuId": "YEESLTMARSLI",
-      "size": "ALL",
+      "sizes": ["UK 6", "UK 7", "UK 8", "UK 9", "UK 10"],
 
       "url": "https://findyourkicks.com/product/yeezy-slides-slate-marine",
       "new": false
@@ -1115,7 +1115,7 @@
       "imgUrl": "https://cdn.shopify.com/s/files/1/0788/3869/4173/products/adidas-yeezy-slide-granite_21014064_46959696_2048.jpg?v=1706718770",
       "photo1": "https://cdn.shopify.com/s/files/1/0788/3869/4173/products/adidas-yeezy-slide-granite_21014064_46959696_2048.jpg?v=1706718770",
       "skuId": "BYESLGRANITE",
-      "size": "ALL",
+      "sizes": ["UK 6", "UK 7", "UK 8", "UK 9", "UK 10"],
 
       "url": "https://findyourkicks.com/product/yeezy-slides-granite",
       "new": false
@@ -1127,7 +1127,7 @@
       "imgUrl": "https://cdn.shopify.com/s/files/1/0788/3869/4173/products/adidas-yeezy-yeezy-slide-bone-2022_18909670_45631814_2048.jpg?v=1706718777",
       "photo1": "https://cdn.shopify.com/s/files/1/0788/3869/4173/products/adidas-yeezy-yeezy-slide-bone-2022_18909670_45631814_2048.jpg?v=1706718777",
       "skuId": "YESLBO20",
-      "size": "ALL",
+      "sizes": ["UK 6", "UK 7", "UK 8", "UK 9", "UK 10"],
 
       "url": "https://findyourkicks.com/product/yeezy-slides-bone-2022",
       "new": false
@@ -1139,7 +1139,7 @@
       "imgUrl": "https://cdn.shopify.com/s/files/1/0788/3869/4173/files/adidas-yeezy-slide-azure_20362205_45672091_10001.webp?v=1692213769",
       "photo1": "https://cdn.shopify.com/s/files/1/0788/3869/4173/files/adidas-yeezy-slide-azure_20362205_45672091_10001.webp?v=1692213769",
       "skuId": "YESLIAZURE",
-      "size": "ALL",
+      "sizes": ["UK 6", "UK 7", "UK 8", "UK 9", "UK 10"],
 
       "url": "https://findyourkicks.com/product/adidas-yeezy-slide-azure",
       "new": false
@@ -1151,7 +1151,7 @@
       "imgUrl": "https://cdn.shopify.com/s/files/1/0788/3869/4173/products/adidas-yeezy-yeezy-slide-pure_16811347_43052960_2048.jpg?v=1706718790",
       "photo1": "https://cdn.shopify.com/s/files/1/0788/3869/4173/products/adidas-yeezy-yeezy-slide-pure_16811347_43052960_2048.jpg?v=1706718790",
       "skuId": "YESLPU20",
-      "size": "ALL",
+      "sizes": ["UK 6", "UK 7", "UK 8", "UK 9", "UK 10"],
 
       "url": "https://findyourkicks.com/product/yeezy-slide-pure-2021",
       "new": false
@@ -1163,7 +1163,7 @@
       "imgUrl": "https://cdn.shopify.com/s/files/1/0788/3869/4173/files/adidas-yeezy-yeezy-slide-glow-green-2022_18499114_45629534_2048.webp?v=1692819804",
       "photo1": "https://cdn.shopify.com/s/files/1/0788/3869/4173/files/adidas-yeezy-yeezy-slide-glow-green-2022_18499114_45629534_2048.webp?v=1692819804",
       "skuId": "YESLGLGR",
-      "size": "ALL",
+      "sizes": ["UK 6", "UK 7", "UK 8", "UK 9", "UK 10"],
 
       "url": "https://findyourkicks.com/product/yeezy-slide-glow-green",
       "new": false
@@ -1175,7 +1175,7 @@
       "imgUrl": "https://cdn.shopify.com/s/files/1/0788/3869/4173/products/adidas-yeezy-yeezy-slide-flax_18927068_45637465_2048.jpg?v=1706718799",
       "photo1": "https://cdn.shopify.com/s/files/1/0788/3869/4173/products/adidas-yeezy-yeezy-slide-flax_18927068_45637465_2048.jpg?v=1706718799",
       "skuId": "YESLFL",
-      "size": "ALL",
+      "sizes": ["UK 6", "UK 7", "UK 8", "UK 9", "UK 10"],
 
       "url": "https://findyourkicks.com/product/yeezy-slide-flax",
       "new": false
@@ -1187,7 +1187,7 @@
       "imgUrl": "http://cdn.shopify.com/s/files/1/0568/5044/8524/products/image_c20d0199-77da-4c83-a9f7-5b38cd98799c_1200x1200.jpg?v=1647967034",
       "photo1": "http://cdn.shopify.com/s/files/1/0568/5044/8524/products/image_c20d0199-77da-4c83-a9f7-5b38cd98799c_1200x1200.jpg?v=1647967034",
       "skuId": "YESLEN",
-      "size": "ALL",
+      "sizes": ["UK 6", "UK 7", "UK 8", "UK 9", "UK 10"],
 
       "url": "",
       "new": false
@@ -1199,7 +1199,7 @@
       "imgUrl": "https://res.cloudinary.com/dx8gt3nnu/image/upload/q_auto,f_auto/dryp-shoe-pictures/yeezy-quantum-'quantum'-q46473/display_picture.png",
       "photo1": "https://res.cloudinary.com/dx8gt3nnu/image/upload/q_auto,f_auto/dryp-shoe-pictures/yeezy-quantum-'quantum'-q46473/display_picture.png",
       "skuId": "YEQUQU",
-      "size": "ALL",
+      "sizes": ["UK 6", "UK 7", "UK 8", "UK 9", "UK 10"],
 
       "url": "https://findyourkicks.com/product/yeezy-quantum-onyx",
       "new": false
@@ -1211,7 +1211,7 @@
       "imgUrl": "https://res.cloudinary.com/dx8gt3nnu/image/upload/q_auto,f_auto/dryp-shoe-pictures/yeezy-quantum-'onyx'-yzyquanonyx/display_picture.png",
       "photo1": "https://res.cloudinary.com/dx8gt3nnu/image/upload/q_auto,f_auto/dryp-shoe-pictures/yeezy-quantum-'onyx'-yzyquanonyx/display_picture.png",
       "skuId": "YEQUON",
-      "size": "ALL",
+      "sizes": ["UK 6", "UK 7", "UK 8", "UK 9", "UK 10"],
 
       "url": "https://findyourkicks.com/product/yeezy-quantum-onyx",
       "new": false
@@ -1223,7 +1223,7 @@
       "imgUrl": "https://res.cloudinary.com/dx8gt3nnu/image/upload/q_auto,f_auto/dryp-shoe-pictures/yeezy-quantum-'flash-orange'-gw5314/display_picture.png",
       "photo1": "https://res.cloudinary.com/dx8gt3nnu/image/upload/q_auto,f_auto/dryp-shoe-pictures/yeezy-quantum-'flash-orange'-gw5314/display_picture.png",
       "skuId": "YEQUFLOR",
-      "size": "ALL",
+      "sizes": ["UK 6", "UK 7", "UK 8", "UK 9", "UK 10"],
 
       "url": "",
       "new": false
@@ -1235,7 +1235,7 @@
       "imgUrl": "https://res.cloudinary.com/dx8gt3nnu/image/upload/q_auto,f_auto/dryp-shoe-pictures/yeezy-quantum-'barium'-h68771/display_picture.png",
       "photo1": "https://res.cloudinary.com/dx8gt3nnu/image/upload/q_auto,f_auto/dryp-shoe-pictures/yeezy-quantum-'barium'-h68771/display_picture.png",
       "skuId": "YEQUBA",
-      "size": "ALL",
+      "sizes": ["UK 6", "UK 7", "UK 8", "UK 9", "UK 10"],
 
       "url": "",
       "new": false
@@ -1247,7 +1247,7 @@
       "imgUrl": "https://hypefly-assets.s3.ap-south-1.amazonaws.com/media/products/desktop_full_size/116-desktop_full_size.webp",
       "photo1": "https://hypefly-assets.s3.ap-south-1.amazonaws.com/media/products/desktop_full_size/116-desktop_full_size.webp",
       "skuId": "YEKNRUFAIN",
-      "size": "ALL",
+      "sizes": ["UK 6", "UK 7", "UK 8", "UK 9", "UK 10"],
 
       "url": "",
       "new": false
@@ -1259,7 +1259,7 @@
       "imgUrl": "https://images.stockx.com/images/Yeezy-x-GAP-Hoodie-Red.jpg?fit=fill&bg=FFFFFF&w=1200&h=857&fm=webp&auto=compress&dpr=2&trim=color&updated_at=1632921116&q=60",
       "photo1": "https://images.stockx.com/images/Yeezy-x-GAP-Hoodie-Red.jpg?fit=fill&bg=FFFFFF&w=1200&h=857&fm=webp&auto=compress&dpr=2&trim=color&updated_at=1632921116&q=60",
       "skuId": "APPYEGAHO‘R",
-      "size": "ALL",
+      "sizes": ["UK 6", "UK 7", "UK 8", "UK 9", "UK 10"],
 
       "url": "",
       "new": false
@@ -1271,7 +1271,7 @@
       "imgUrl": "https://res.cloudinary.com/dx8gt3nnu/image/upload/q_auto,f_auto/dryp-shoe-pictures/yeezy-foam-runner-'vermilion'-gw3355/display_picture.png",
       "photo1": "https://res.cloudinary.com/dx8gt3nnu/image/upload/q_auto,f_auto/dryp-shoe-pictures/yeezy-foam-runner-'vermilion'-gw3355/display_picture.png",
       "skuId": "YEFORUVE",
-      "size": "ALL",
+      "sizes": ["UK 6", "UK 7", "UK 8", "UK 9", "UK 10"],
 
       "url": "",
       "new": false
@@ -1283,7 +1283,7 @@
       "imgUrl": "https://cdn.shopify.com/s/files/1/0788/3869/4173/products/adidas-yeezy-yeezy-foam-runner-sulfur_18377450_45633960_2048.jpg?v=1706718817",
       "photo1": "https://cdn.shopify.com/s/files/1/0788/3869/4173/products/adidas-yeezy-yeezy-foam-runner-sulfur_18377450_45633960_2048.jpg?v=1706718817",
       "skuId": "YEFORUSU",
-      "size": "ALL",
+      "sizes": ["UK 6", "UK 7", "UK 8", "UK 9", "UK 10"],
 
       "url": "",
       "new": false
@@ -1295,7 +1295,7 @@
       "imgUrl": "https://cdn.shopify.com/s/files/1/0788/3869/4173/files/2_4bad4e6e-a431-40d5-a9bf-9e9fe5aa9d75.png?v=1692824378",
       "photo1": "https://cdn.shopify.com/s/files/1/0788/3869/4173/files/2_4bad4e6e-a431-40d5-a9bf-9e9fe5aa9d75.png?v=1692824378",
       "skuId": "YEFORNSTONESALT",
-      "size": "ALL",
+      "sizes": ["UK 6", "UK 7", "UK 8", "UK 9", "UK 10"],
 
       "url": "https://findyourkicks.com/product/yeezy-foam-runner-stone-salt",
       "new": false
@@ -1307,7 +1307,7 @@
       "imgUrl": "https://cdn.shopify.com/s/files/1/0788/3869/4173/products/adidas-yeezy-yeezy-foam-runner-stone-sage_18132084_43083500_2048.jpg?v=1706718826",
       "photo1": "https://cdn.shopify.com/s/files/1/0788/3869/4173/products/adidas-yeezy-yeezy-foam-runner-stone-sage_18132084_43083500_2048.jpg?v=1706718826",
       "skuId": "YEFORUSTSA",
-      "size": "ALL",
+      "sizes": ["UK 6", "UK 7", "UK 8", "UK 9", "UK 10"],
 
       "url": "",
       "new": false
@@ -1319,7 +1319,7 @@
       "imgUrl": "https://cdn.shopify.com/s/files/1/0788/3869/4173/products/adidas-yeezy-yeezy-foam-runner-sand_16658089_43003387_2048.jpg?v=1706718836",
       "photo1": "https://cdn.shopify.com/s/files/1/0788/3869/4173/products/adidas-yeezy-yeezy-foam-runner-sand_16658089_43003387_2048.jpg?v=1706718836",
       "skuId": "YEFORUSA",
-      "size": "ALL",
+      "sizes": ["UK 6", "UK 7", "UK 8", "UK 9", "UK 10"],
 
       "url": "https://findyourkicks.com/product/yeezy-foam-runner-sand",
       "new": false

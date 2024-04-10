@@ -34,7 +34,7 @@ const Jordan4 = () => {
               height={300}
               width={100}
               alt={product.name}
-              className="w-full h-40 object-cover object-center"
+              className="w-full h-40 object-cover object-center transition duration-300 transform hover:scale-105"
             />
             <div className="p-4">
               <h2 className="text-lg font-bold mb-2">{product.name}</h2>

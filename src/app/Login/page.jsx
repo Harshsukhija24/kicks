@@ -76,6 +76,12 @@ const Page = () => {
             <Link href="/Register">Register</Link>
           </span>
         </p>
+        <p className="mt-4 text-center">
+          are u owner?{" "}
+          <span className="text-blue-500 hover:text-blue-700 cursor-pointer">
+            <Link href="/Ownerlogin">login</Link>
+          </span>
+        </p>
       </form>
     </div>
   );

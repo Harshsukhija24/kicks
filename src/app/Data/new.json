@@ -1,0 +1,22 @@
+[
+  {
+    "name": "hello",
+    "email": "qwerty@gmail.com",
+    "price": "1229",
+    "productName": "hello",
+    "sizes": ["UK7", "UK8", "UK9"],
+    "skuId": "7Qy1edFmll",
+    "imgUrl": "https://res.cloudinary.com/dx8gt3nnu/image/upload/q_auto,f_auto/dryp-shoe-pictures/wmns-air-jordan-1-mid-'coconut-milk'-bq6472121/display_picture.png",
+    "slug": "hello"
+  },
+  {
+    "name": "adi",
+    "email": "qwerty@gmail.com",
+    "price": "2338",
+    "productName": "Travis",
+    "sizes": ["UK7", "UK8"],
+    "imgUrl": "https://cdn.shopify.com/s/files/1/0788/3869/4173/products/nike-sb-dunk-low-ebay-sandy-bodecker_19418462_43497223_2048.jpg?v=1706721027",
+    "slug": "Travis",
+    "skuId": "xOZwdtPlw0"
+  }
+]

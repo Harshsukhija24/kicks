@@ -2,38 +2,46 @@
 import React, { useState, useEffect } from "react";
 import Searchbar from "../Component/Searchbar1";
 import { useRouter } from "next/navigation";
-import { useSession } from "next-auth/react";
 import Image from "next/image";
 
 const Home = () => {
   const [products, setProducts] = useState([]);
   const [searchQuery, setSearchQuery] = useState("");
+  const [loading, setLoading] = useState(true); // Add loading state
+  const [error, setError] = useState(null); // Add error state
   const router = useRouter();
-  const { data: session } = useSession();
 
   useEffect(() => {
-    if (session) {
-      router.push("/Sneakers");
-    } else {
-      router.push("/");
-    }
-  }, [session]);
+    setLoading(true); // Set loading state to true before fetching data
 
-  useEffect(() => {
-    if (session) {
-      fetch("api/sneakers")
-        .then((response) => response.json())
-        .then((data) => setProducts(data.products))
-        .catch((error) => console.error("Error fetching products:", error));
-    }
-  }, [session]);
+    fetch("api/sneakers")
+      .then((response) => {
+        if (!response.ok) {
+          throw new Error("Failed to fetch products");
+        }
+        return response.json();
+      })
+      .then((data) => {
+        setProducts(data.products);
+        setLoading(false); // Set loading state to false after successful data fetch
+      })
+      .catch((error) => {
+        setError(error); // Set error state if there's an error during fetching
+        setLoading(false); // Also set loading state to false
+        console.error("Error fetching products:", error);
+      });
+  }, []);
 
   const filteredProducts = products.filter((product) =>
     product.name.toLowerCase().includes(searchQuery.toLowerCase())
   );
 
-  if (!session) {
+  if (loading) {
     return <div>Loading...</div>;
+  }
+
+  if (error) {
+    return <div>Error: {error.message}</div>; // Display error message if there's an error
   }
 
   return (
@@ -49,7 +57,7 @@ const Home = () => {
             onClick={() => {
               router.push(`Sneakers/${product.skuId}`);
             }}
-            className="bg-blue-200 rounded-lg overflow-hidden shadow-md hover:shadow-lg transition duration-300"
+            className="bg-blue-200 rounded-lg overflow-hidden shadow-md hover:shadow-lg transition duration-300 relative"
             style={{ width: "250px", height: "300px" }} // Adjust width and height as needed
           >
             <Image
@@ -57,7 +65,7 @@ const Home = () => {
               alt={product.name}
               width={100}
               height={300}
-              className="w-full h-40 object-cover object-center"
+              className="w-full h-40 object-cover object-center transition duration-300 transform hover:scale-105"
             />
             <div className="p-4">
               <h2 className="text-lg font-bold mb-2">{product.name}</h2>

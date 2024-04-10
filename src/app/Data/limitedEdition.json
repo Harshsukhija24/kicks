@@ -8,7 +8,7 @@
       "imgUrl": "https://culturecircle.s3.ap-south-1.amazonaws.com/static/images/product/powerpuff2.jpeg",
       "photo1": "https://culturecircle.s3.ap-south-1.amazonaws.com/static/images/product/powerpuff2.jpeg",
       "skuId": "BPOHYPAOF3",
-      "size": "ALL",
+      "sizes": ["UK 6", "UK 7", "UK 8", "UK 9", "UK 10"],
 
       "url": "",
       "new": false
@@ -20,7 +20,7 @@
       "imgUrl": "https://cdn.shopify.com/s/files/1/0788/3869/4173/products/nike-sb-dunk-low-supreme-stars-barkroot-brown_16394494_43036486_2048.jpg?v=1706719976",
       "photo1": "https://cdn.shopify.com/s/files/1/0788/3869/4173/products/nike-sb-dunk-low-supreme-stars-barkroot-brown_16394494_43036486_2048.jpg?v=1706719976",
       "skuId": "SUXDULOOGSBQSBABR",
-      "size": "ALL",
+      "sizes": ["UK 6", "UK 7", "UK 8", "UK 9", "UK 10"],
 
       "url": "",
       "new": false
@@ -32,7 +32,7 @@
       "imgUrl": "https://cdn.shopify.com/s/files/1/0788/3869/4173/files/jordan-kids-air-jordan-1-retro-high-og-gs-dark-mocha_16075437_43113765_2048.jpg?v=1707485637",
       "photo1": "https://cdn.shopify.com/s/files/1/0788/3869/4173/files/jordan-kids-air-jordan-1-retro-high-og-gs-dark-mocha_16075437_43113765_2048.jpg?v=1707485637",
       "skuId": "AIJO1REHIOGDAMO",
-      "size": "ALL",
+      "sizes": ["UK 6", "UK 7", "UK 8", "UK 9", "UK 10"],
 
       "url": "https://findyourkicks.com/product/air-jordan-1-retro-high-og-dark-mocha",
       "new": false
@@ -44,7 +44,7 @@
       "imgUrl": "https://crepdogcrew.com/cdn/shop/products/NikeDunkLowOff-WhiteUniversityRed_b62361a5-c9d3-4451-926f-4c6c8afa733d_800x.jpg?v=1606061586",
       "photo1": "https://crepdogcrew.com/cdn/shop/products/NikeDunkLowOff-WhiteUniversityRed_b62361a5-c9d3-4451-926f-4c6c8afa733d_800x.jpg?v=1606061586",
       "skuId": "OFXDULOUNRE",
-      "size": "ALL",
+      "sizes": ["UK 6", "UK 7", "UK 8", "UK 9", "UK 10"],
 
       "url": "",
       "new": false
@@ -56,7 +56,7 @@
       "imgUrl": "https://cdn.shopify.com/s/files/1/0788/3869/4173/products/nike-sb-dunk-low-mummy_17552552_43036381_2048.jpg?v=1706720405",
       "photo1": "https://cdn.shopify.com/s/files/1/0788/3869/4173/products/nike-sb-dunk-low-mummy_17552552_43036381_2048.jpg?v=1706720405",
       "skuId": "NIDULOSBMU",
-      "size": "ALL",
+      "sizes": ["UK 6", "UK 7", "UK 8", "UK 9", "UK 10"],
 
       "url": "",
       "new": false
@@ -68,7 +68,7 @@
       "imgUrl": "https://cdn.shopify.com/s/files/1/0788/3869/4173/files/IMG_8135.webp?v=1692786591",
       "photo1": "https://cdn.shopify.com/s/files/1/0788/3869/4173/files/IMG_8135.webp?v=1692786591",
       "skuId": "UNLAXAIJO4RE‘GIC",
-      "size": "ALL",
+      "sizes": ["UK 6", "UK 7", "UK 8", "UK 9", "UK 10"],
 
       "url": "https://findyourkicks.com/product/union-la-x-air-jordan-4-retro-guava-ice",
       "new": false
@@ -80,7 +80,7 @@
       "imgUrl": "https://cdn.shopify.com/s/files/1/0788/3869/4173/files/nike-sb-dunk-low-street-hawker_16313615_43123760_2048.jpg?v=1706268176",
       "photo1": "https://cdn.shopify.com/s/files/1/0788/3869/4173/files/nike-sb-dunk-low-street-hawker_16313615_43123760_2048.jpg?v=1706268176",
       "skuId": "DULOPRSBSTHA",
-      "size": "ALL",
+      "sizes": ["UK 6", "UK 7", "UK 8", "UK 9", "UK 10"],
 
       "url": "",
       "new": false
@@ -92,7 +92,7 @@
       "imgUrl": "https://urbannecessities.com/cdn/shop/products/537415_00_png_800x.png?v=1657203658",
       "photo1": "https://urbannecessities.com/cdn/shop/products/537415_00_png_800x.png?v=1657203658",
       "skuId": "OFXDULOPIGR",
-      "size": "ALL",
+      "sizes": ["UK 6", "UK 7", "UK 8", "UK 9", "UK 10"],
 
       "url": "",
       "new": false
@@ -104,7 +104,7 @@
       "imgUrl": "https://images.vegnonveg.com/resized/700X573/10732/air-jordan-4-retro-sailmetallic-gold-black-white-65d49ca93536d.jpg",
       "photo1": "",
       "skuId": "BAIJO4RESAGO",
-      "size": "ALL",
+      "sizes": ["UK 6", "UK 7", "UK 8", "UK 9", "UK 10"],
 
       "url": "",
       "new": false
@@ -116,7 +116,7 @@
       "imgUrl": "https://crepdogcrew.com/cdn/shop/products/Jordan1RetroHighOff-WhiteWhite_800x.jpg?v=1602760196",
       "photo1": "https://crepdogcrew.com/cdn/shop/products/Jordan1RetroHighOff-WhiteWhite_800x.jpg?v=1602760196",
       "skuId": "JO1REHIOFFWHIWHI",
-      "size": "ALL",
+      "sizes": ["UK 6", "UK 7", "UK 8", "UK 9", "UK 10"],
 
       "url": "",
       "new": false
@@ -128,7 +128,7 @@
       "imgUrl": "https://cdn.shopify.com/s/files/1/0788/3869/4173/products/nike-sb-dunk-low-what-the-p-rod_16860816_34412670_2048_40eadd4a-e67f-401c-87a5-d48cddfd9dfa.jpg?v=1706720390",
       "photo1": "https://cdn.shopify.com/s/files/1/0788/3869/4173/products/nike-sb-dunk-low-what-the-p-rod_16860816_34412670_2048_40eadd4a-e67f-401c-87a5-d48cddfd9dfa.jpg?v=1706720390",
       "skuId": "NIDULOSBWHTHPA",
-      "size": "ALL",
+      "sizes": ["UK 6", "UK 7", "UK 8", "UK 9", "UK 10"],
 
       "url": "https://findyourkicks.com/product/nike-dunk-low-sb-what-the-paul",
       "new": false
@@ -140,7 +140,7 @@
       "imgUrl": "https://cdn.shopify.com/s/files/1/0788/3869/4173/products/jordan-air-jordan-1-hi-og-nrg-nigel-sylvester_13515456_42997448_2048.jpg?v=1706240594",
       "photo1": "https://cdn.shopify.com/s/files/1/0788/3869/4173/products/jordan-air-jordan-1-hi-og-nrg-nigel-sylvester_13515456_42997448_2048.jpg?v=1706240594",
       "skuId": "BAIJO1HNISYL",
-      "size": "ALL",
+      "sizes": ["UK 6", "UK 7", "UK 8", "UK 9", "UK 10"],
 
       "url": "",
       "new": false
@@ -152,7 +152,7 @@
       "imgUrl": "https://cdn.shopify.com/s/files/1/0788/3869/4173/products/nike-x-off-white-air-force-1-low-off-white-brooklyn_18429909_45627484_2048.jpg?v=1706240721",
       "photo1": "https://cdn.shopify.com/s/files/1/0788/3869/4173/products/nike-x-off-white-air-force-1-low-off-white-brooklyn_18429909_45627484_2048.jpg?v=1706240721",
       "skuId": "NIAIFO1LOOFBR",
-      "size": "ALL",
+      "sizes": ["UK 6", "UK 7", "UK 8", "UK 9", "UK 10"],
 
       "url": "",
       "new": false
@@ -164,7 +164,7 @@
       "imgUrl": "https://images.stockx.com/360/Nike-Air-Rubber-Dunk-Off-White-UNC/Images/Nike-Air-Rubber-Dunk-Off-White-UNC/Lv2/img19.jpg?fm=avif&auto=compress&w=576&dpr=1&updated_at=1635279333&h=384&q=57",
       "photo1": "https://images.stockx.com/360/Nike-Air-Rubber-Dunk-Off-White-UNC/Images/Nike-Air-Rubber-Dunk-Off-White-UNC/Lv2/img19.jpg?fm=avif&auto=compress&w=576&dpr=1&updated_at=1635279333&h=384&q=57",
       "skuId": "BNIAIRUDUOFUN",
-      "size": "ALL",
+      "sizes": ["UK 6", "UK 7", "UK 8", "UK 9", "UK 10"],
 
       "url": "",
       "new": false
@@ -176,7 +176,7 @@
       "imgUrl": "https://crepdogcrew.com/cdn/shop/files/NIKESBDUNKLOWTRAVISSCOTT_SPECIALBOX_800x.jpg?v=1696939959",
       "photo1": "https://crepdogcrew.com/cdn/shop/files/NIKESBDUNKLOWTRAVISSCOTT_SPECIALBOX_800x.jpg?v=1696939959",
       "skuId": "BNISBDULOTRSC(SBO",
-      "size": "ALL",
+      "sizes": ["UK 6", "UK 7", "UK 8", "UK 9", "UK 10"],
 
       "url": "",
       "new": false
@@ -188,7 +188,7 @@
       "imgUrl": "https://cdn.shopify.com/s/files/1/0568/5044/8524/products/image_30c53de8-5aa8-442e-ada0-633f50b79709_720x.jpg?v=1669537334",
       "photo1": "https://cdn.shopify.com/s/files/1/0568/5044/8524/products/image_30c53de8-5aa8-442e-ada0-633f50b79709_720x.jpg?v=1669537334",
       "skuId": "NIAI1LOOFMCUNBL",
-      "size": "ALL",
+      "sizes": ["UK 6", "UK 7", "UK 8", "UK 9", "UK 10"],
 
       "url": "",
       "new": false
@@ -200,7 +200,7 @@
       "imgUrl": "https://cdn.shopify.com/s/files/1/0788/3869/4173/files/IMG_7949.webp?v=1692782469",
       "photo1": "https://cdn.shopify.com/s/files/1/0788/3869/4173/files/IMG_7949.webp?v=1692782469",
       "skuId": "FRDEXTRSCXAIJO1REHI",
-      "size": "ALL",
+      "sizes": ["UK 6", "UK 7", "UK 8", "UK 9", "UK 10"],
 
       "url": "https://findyourkicks.com/product/fragment-design-x-travis-scott-x-air-jordan-1-retro-high",
       "new": false
@@ -212,7 +212,7 @@
       "imgUrl": "https://res.cloudinary.com/dx8gt3nnu/image/upload/q_auto,f_auto/dryp-shoe-pictures/air-jordan-1-retro-high-og-'turbo-green'-555088311/display_picture.png",
       "photo1": "https://res.cloudinary.com/dx8gt3nnu/image/upload/q_auto,f_auto/dryp-shoe-pictures/air-jordan-1-retro-high-og-'turbo-green'-555088311/display_picture.png",
       "skuId": "AIJO1REHIOGTUGR",
-      "size": "ALL",
+      "sizes": ["UK 6", "UK 7", "UK 8", "UK 9", "UK 10"],
 
       "url": "",
       "new": false
@@ -224,7 +224,7 @@
       "imgUrl": "https://cdn.shopify.com/s/files/1/0788/3869/4173/products/nike-sb-dunk-low-grateful-dead-yellow-bear_15645873_43096942_2048.jpg?v=1706720852",
       "photo1": "https://cdn.shopify.com/s/files/1/0788/3869/4173/products/nike-sb-dunk-low-grateful-dead-yellow-bear_15645873_43096942_2048.jpg?v=1706720852",
       "skuId": "BNISBDULOGRDEBEOPYE",
-      "size": "ALL",
+      "sizes": ["UK 6", "UK 7", "UK 8", "UK 9", "UK 10"],
 
       "url": "",
       "new": false
@@ -236,7 +236,7 @@
       "imgUrl": "https://cdn.shopify.com/s/files/1/0788/3869/4173/products/nike-sb-dunk-low-concepts-orange-lobster-special-box_19479062_43259375_2048_b1dc5397-8cb9-4b12-bb68-e204e9375f3f.jpg?v=1706720862",
       "photo1": "https://cdn.shopify.com/s/files/1/0788/3869/4173/products/nike-sb-dunk-low-concepts-orange-lobster-special-box_19479062_43259375_2048_b1dc5397-8cb9-4b12-bb68-e204e9375f3f.jpg?v=1706720862",
       "skuId": "BNISBDULOCOORLO(SBO",
-      "size": "ALL",
+      "sizes": ["UK 6", "UK 7", "UK 8", "UK 9", "UK 10"],
 
       "url": "",
       "new": false
@@ -248,7 +248,7 @@
       "imgUrl": "https://cdn.shopify.com/s/files/1/0788/3869/4173/products/jordan-air-jordan-4-retro-travis-scott-cactus-jack_13157564_42986668_2048.jpg?v=1706719930",
       "photo1": "https://cdn.shopify.com/s/files/1/0788/3869/4173/products/jordan-air-jordan-4-retro-travis-scott-cactus-jack_13157564_42986668_2048.jpg?v=1706719930",
       "skuId": "TRSCXAIJO4RECAJA",
-      "size": "ALL",
+      "sizes": ["UK 6", "UK 7", "UK 8", "UK 9", "UK 10"],
 
       "url": "https://findyourkicks.com/product/travis-scott-x-air-jordan-4-retro-cactus-jack",
       "new": false
@@ -260,7 +260,7 @@
       "imgUrl": "https://cdn.shopify.com/s/files/1/0788/3869/4173/products/jordan-kids-air-jordan-1-retro-high-og-gs-bred-toe_13157583_42970274_2048.jpg?v=1706240119",
       "photo1": "https://cdn.shopify.com/s/files/1/0788/3869/4173/products/jordan-kids-air-jordan-1-retro-high-og-gs-bred-toe_13157583_42970274_2048.jpg?v=1706240119",
       "skuId": "AIJO1REHIOGBRTO",
-      "size": "ALL",
+      "sizes": ["UK 6", "UK 7", "UK 8", "UK 9", "UK 10"],
 
       "url": "",
       "new": false
@@ -272,7 +272,7 @@
       "imgUrl": "https://cdn.shopify.com/s/files/1/0788/3869/4173/products/jordan-air-jordan-1-high-og-ts-sp-travis-scott_14077010_43040970_2048.jpg?v=1706719949",
       "photo1": "https://cdn.shopify.com/s/files/1/0788/3869/4173/products/jordan-air-jordan-1-high-og-ts-sp-travis-scott_14077010_43040970_2048.jpg?v=1706719949",
       "skuId": "TRSCXAIJO1REHIOGMO",
-      "size": "ALL",
+      "sizes": ["UK 6", "UK 7", "UK 8", "UK 9", "UK 10"],
 
       "url": "https://findyourkicks.com/product/travis-scott-x-air-jordan-1-retro-high-og-mocha",
       "new": false
@@ -284,7 +284,7 @@
       "imgUrl": "https://images.stockx.com/360/Nike-Dunk-SB-Low-Tiffany-Diamond/Images/Nike-Dunk-SB-Low-Tiffany-Diamond/Lv2/img01.jpg?fm=jpg&auto=compress&w=480&dpr=2&updated_at=1666596335&h=320&q=60",
       "photo1": "https://images.stockx.com/360/Nike-Dunk-SB-Low-Tiffany-Diamond/Images/Nike-Dunk-SB-Low-Tiffany-Diamond/Lv2/img01.jpg?fm=jpg&auto=compress&w=480&dpr=2&updated_at=1666596335&h=320&q=60",
       "skuId": "BNISBDULODISUCO",
-      "size": "ALL",
+      "sizes": ["UK 6", "UK 7", "UK 8", "UK 9", "UK 10"],
 
       "url": "",
       "new": false
@@ -296,7 +296,7 @@
       "imgUrl": "https://cdn.shopify.com/s/files/1/0788/3869/4173/files/jordan-air-jordan-1-low-og-sp-travis-scott-fragment_17037229_43023522_2048.jpg?v=1706339895",
       "photo1": "https://cdn.shopify.com/s/files/1/0788/3869/4173/files/jordan-air-jordan-1-low-og-sp-travis-scott-fragment_17037229_43023522_2048.jpg?v=1706339895",
       "skuId": "FRDEXTRSCXAIJO1RELO",
-      "size": "ALL",
+      "sizes": ["UK 6", "UK 7", "UK 8", "UK 9", "UK 10"],
 
       "url": "https://findyourkicks.com/product/fragment-design-x-travis-scott-x-air-jordan-1-retro-low",
       "new": false
@@ -308,7 +308,7 @@
       "imgUrl": "https://crepdogcrew.com/cdn/shop/products/DUNKLOWOff-White-Lot26_2_1000x.png?v=1673962281",
       "photo1": "https://crepdogcrew.com/cdn/shop/products/DUNKLOWOff-White-Lot26_2_1000x.png?v=1673962281",
       "skuId": "BNIDULOOFLO26",
-      "size": "ALL",
+      "sizes": ["UK 6", "UK 7", "UK 8", "UK 9", "UK 10"],
 
       "url": "",
       "new": false
@@ -320,7 +320,7 @@
       "imgUrl": "https://crepdogcrew.com/cdn/shop/files/DUNKLOWOFFWHITELOT-02_1000x.jpg?v=1686741445",
       "photo1": "https://crepdogcrew.com/cdn/shop/files/DUNKLOWOFFWHITELOT-02_1000x.jpg?v=1686741445",
       "skuId": "BNIDULOOFLO2",
-      "size": "ALL",
+      "sizes": ["UK 6", "UK 7", "UK 8", "UK 9", "UK 10"],
 
       "url": "",
       "new": false
@@ -332,7 +332,7 @@
       "imgUrl": "https://res.cloudinary.com/dx8gt3nnu/image/upload/q_auto,f_auto/dryp-shoe-pictures/off-white-x-air-jordan-5-retro-sp-'muslin'-ct8480001/display_picture.png",
       "photo1": "https://res.cloudinary.com/dx8gt3nnu/image/upload/q_auto,f_auto/dryp-shoe-pictures/off-white-x-air-jordan-5-retro-sp-'muslin'-ct8480001/display_picture.png",
       "skuId": "OFXAIJO5RESPMU",
-      "size": "ALL",
+      "sizes": ["UK 6", "UK 7", "UK 8", "UK 9", "UK 10"],
 
       "url": "",
       "new": false
@@ -344,7 +344,7 @@
       "imgUrl": "https://crepdogcrew.com/cdn/shop/products/NIKEDUNKLOWOFF-WHITELOT25_1000x.jpg?v=1672414371",
       "photo1": "https://crepdogcrew.com/cdn/shop/products/NIKEDUNKLOWOFF-WHITELOT25_1000x.jpg?v=1672414371",
       "skuId": "BNIDULOOFLO25",
-      "size": "ALL",
+      "sizes": ["UK 6", "UK 7", "UK 8", "UK 9", "UK 10"],
 
       "url": "",
       "new": false
@@ -356,7 +356,7 @@
       "imgUrl": "https://cdn.shopify.com/s/files/1/0360/6491/9692/products/lowoffwhiteblack2_800x.png?v=1660307218",
       "photo1": "https://cdn.shopify.com/s/files/1/0360/6491/9692/products/lowoffwhiteblack2_800x.png?v=1660307218",
       "skuId": "NIAIFO1LOOFBLWH",
-      "size": "ALL",
+      "sizes": ["UK 6", "UK 7", "UK 8", "UK 9", "UK 10"],
 
       "url": "",
       "new": false

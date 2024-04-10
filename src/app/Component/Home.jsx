@@ -2,30 +2,24 @@
 import React, { useState, useEffect } from "react";
 import { useRouter } from "next/navigation";
 import Searchbar from "./Searchbar1";
-import { useSession } from "next-auth/react";
 import Image from "next/image";
 
 const Home = () => {
   const [products, setProducts] = useState([]);
-  const { data: session } = useSession();
   const [filteredData, setFilteredData] = useState([]);
   const [searchQuery, setSearchQuery] = useState("");
   const [filterData, setFilterData] = useState(""); // State for filtering
   const router = useRouter();
 
   useEffect(() => {
-    if (!session) {
-      router.push("/");
-    } else {
-      fetch("/api/Home")
-        .then((response) => response.json())
-        .then((data) => {
-          setProducts(data.products);
-          setFilteredData(data.products); // Initialize filteredData with all products
-        })
-        .catch((error) => console.error("Error fetching products:", error));
-    }
-  }, [session]);
+    fetch("/api/Home")
+      .then((response) => response.json())
+      .then((data) => {
+        setProducts(data.products);
+        setFilteredData(data.products); // Initialize filteredData with all products
+      })
+      .catch((error) => console.error("Error fetching products:", error));
+  }, []);
 
   useEffect(() => {
     // Filter products based on searchQuery and filterData
@@ -59,7 +53,7 @@ const Home = () => {
               alt={product.name}
               width={100} // Set the desired width of the image
               height={300} // Set the desired height of the image
-              className="w-full h-32 object-cover object-center"
+              className="w-full h-40 object-cover object-center transition duration-300 transform hover:scale-105"
             />
 
             <div className="p-4">

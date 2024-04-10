@@ -8,7 +8,7 @@
       "imgUrl": "https://res.cloudinary.com/dx8gt3nnu/image/upload/q_auto,f_auto/dryp-shoe-pictures/wmns-air-jordan-1-mid-'coconut-milk'-bq6472121/display_picture.png",
       "photo1": "https://res.cloudinary.com/dx8gt3nnu/image/upload/q_auto,f_auto/dryp-shoe-pictures/wmns-air-jordan-1-mid-'coconut-milk'-bq6472121/display_picture.png",
       "skuId": "WMAIJO1MICOMI",
-      "size": "ALL",
+      "sizes": ["UK 6", "UK 7", "UK 8", "UK 9", "UK 10"],
 
       "url": "https://findyourkicks.com/product/wmns-air-jordan-1-mid-coconut-milk",
       "new": false
@@ -20,7 +20,7 @@
       "imgUrl": "https://cdn.shopify.com/s/files/1/0788/3869/4173/products/jordan-wmns-air-jordan-1-low-white-wolf-grey_16984863_47792707_2048.jpg?v=1706719721",
       "photo1": "https://cdn.shopify.com/s/files/1/0788/3869/4173/products/jordan-wmns-air-jordan-1-low-white-wolf-grey_16984863_47792707_2048.jpg?v=1706719721",
       "skuId": "WMAIJO1LOWHWOGR",
-      "size": "ALL",
+      "sizes": ["UK 6", "UK 7", "UK 8", "UK 9", "UK 10"],
 
       "url": "https://findyourkicks.com/product/air-jordan-1-low-golf-wolf-grey",
       "new": false
@@ -32,7 +32,7 @@
       "imgUrl": "https://offkicksinc.com/cdn/shop/files/Websiteshoesizefinal_28.png?v=1696488595&width=1800",
       "photo1": "https://offkicksinc.com/cdn/shop/files/Websiteshoesizefinal_28.png?v=1696488595&width=1800",
       "skuId": "BNEBAWM55SESALICH",
-      "size": "ALL",
+      "sizes": ["UK 6", "UK 7", "UK 8", "UK 9", "UK 10"],
 
       "url": "",
       "new": false
@@ -44,7 +44,7 @@
       "imgUrl": "https://cdn.shopify.com/s/files/1/0788/3869/4173/products/jordan-wmns-air-jordan-1-mid-black-gym-red-sail_19573623_43568549_2048.jpg?v=1706719705",
       "photo1": "https://cdn.shopify.com/s/files/1/0788/3869/4173/products/jordan-wmns-air-jordan-1-mid-black-gym-red-sail_19573623_43568549_2048.jpg?v=1706719705",
       "skuId": "WMAIJO1MIBLSAGYRE",
-      "size": "ALL",
+      "sizes": ["UK 6", "UK 7", "UK 8", "UK 9", "UK 10"],
 
       "url": "",
       "new": false
@@ -56,7 +56,7 @@
       "imgUrl": "https://images.stockx.com/360/Air-Jordan-1-Low-Dark-Grey-Womens/Images/Air-Jordan-1-Low-Dark-Grey-Womens/Lv2/img19.jpg?fm=avif&auto=compress&w=576&dpr=1&updated_at=1707769130&h=384&q=57",
       "photo1": "https://images.stockx.com/360/Air-Jordan-1-Low-Dark-Grey-Womens/Images/Air-Jordan-1-Low-Dark-Grey-Womens/Lv2/img19.jpg?fm=avif&auto=compress&w=576&dpr=1&updated_at=1707769130&h=384&q=57",
       "skuId": "BAIJO1LODAGR(W",
-      "size": "ALL",
+      "sizes": ["UK 6", "UK 7", "UK 8", "UK 9", "UK 10"],
 
       "url": "",
       "new": false
@@ -68,7 +68,7 @@
       "imgUrl": "https://hypefly-assets.s3.ap-south-1.amazonaws.com/media/products/desktop_full_size/1546-desktop_full_size.webp",
       "photo1": "https://hypefly-assets.s3.ap-south-1.amazonaws.com/media/products/desktop_full_size/1546-desktop_full_size.webp",
       "skuId": "BJO1REHILUGR",
-      "size": "ALL",
+      "sizes": ["UK 6", "UK 7", "UK 8", "UK 9", "UK 10"],
 
       "url": "",
       "new": false
@@ -80,7 +80,7 @@
       "imgUrl": "https://cdn.shopify.com/s/files/1/0788/3869/4173/files/nike-dunk-low-wmns-rose-whisper_18396508_43158159_10001.webp?v=1692213462",
       "photo1": "https://cdn.shopify.com/s/files/1/0788/3869/4173/files/nike-dunk-low-wmns-rose-whisper_18396508_43158159_10001.webp?v=1692213462",
       "skuId": "WMDULOROWH",
-      "size": "ALL",
+      "sizes": ["UK 6", "UK 7", "UK 8", "UK 9", "UK 10"],
 
       "url": "https://findyourkicks.com/product/nike-dunk-low-rose-whisper",
       "new": false
@@ -92,7 +92,7 @@
       "imgUrl": "https://cdn.shopify.com/s/files/1/0788/3869/4173/files/jordan-wmns-air-jordan-1-mid-unc_18362887_45629327_2048.jpg?v=1707744269",
       "photo1": "https://cdn.shopify.com/s/files/1/0788/3869/4173/files/jordan-wmns-air-jordan-1-mid-unc_18362887_45629327_2048.jpg?v=1707744269",
       "skuId": "WMAIJO1MIUNBL",
-      "size": "ALL",
+      "sizes": ["UK 6", "UK 7", "UK 8", "UK 9", "UK 10"],
 
       "url": "https://findyourkicks.com/product/wmns-air-jordan-1-mid-university-blue",
       "new": false
@@ -104,7 +104,7 @@
       "imgUrl": "https://cdn.shopify.com/s/files/1/0788/3869/4173/products/nike-w-dunk-low-medium-olive_19005113_45639228_2048.jpg?v=1706719480",
       "photo1": "https://cdn.shopify.com/s/files/1/0788/3869/4173/products/nike-w-dunk-low-medium-olive_19005113_45639228_2048.jpg?v=1706719480",
       "skuId": "WMDULOMEOL",
-      "size": "ALL",
+      "sizes": ["UK 6", "UK 7", "UK 8", "UK 9", "UK 10"],
 
       "url": "https://findyourkicks.com/product/wmns-dunk-low-medium-olive",
       "new": false
@@ -116,7 +116,7 @@
       "imgUrl": "https://cdn.shopify.com/s/files/1/0788/3869/4173/files/jordan-kids-air-jordan-1-low-gs-fierce-pink_20936235_46106441_2048.webp?v=1706868618",
       "photo1": "https://cdn.shopify.com/s/files/1/0788/3869/4173/files/jordan-kids-air-jordan-1-low-gs-fierce-pink_20936235_46106441_2048.webp?v=1706868618",
       "skuId": "BJO1LOFIPI",
-      "size": "ALL",
+      "sizes": ["UK 6", "UK 7", "UK 8", "UK 9", "UK 10"],
 
       "url": "https://findyourkicks.com/product/air-jordan-1-low-fierce-pink",
       "new": false
@@ -128,7 +128,7 @@
       "imgUrl": "https://cdn.shopify.com/s/files/1/0788/3869/4173/products/jordan-wmns-air-jordan-1-mid-wolf-grey-aluminum_17114467_43049641_2048.jpg?v=1706719638",
       "photo1": "https://cdn.shopify.com/s/files/1/0788/3869/4173/products/jordan-wmns-air-jordan-1-mid-wolf-grey-aluminum_17114467_43049641_2048.jpg?v=1706719638",
       "skuId": "WMAIJO1MIWOGRAL",
-      "size": "ALL",
+      "sizes": ["UK 6", "UK 7", "UK 8", "UK 9", "UK 10"],
 
       "url": "https://findyourkicks.com/product/air-jordan-1-mid-wolf-grey-aluminum-womens",
       "new": false
@@ -140,7 +140,7 @@
       "imgUrl": "https://cdn.shopify.com/s/files/1/0788/3869/4173/products/jordan-wmns-air-jordan-1-low-chicago-flip_16748640_43049345_2048.jpg?v=1706719780",
       "photo1": "https://cdn.shopify.com/s/files/1/0788/3869/4173/products/jordan-wmns-air-jordan-1-low-chicago-flip_16748640_43049345_2048.jpg?v=1706719780",
       "skuId": "WMAIJO1LOCHFL",
-      "size": "ALL",
+      "sizes": ["UK 6", "UK 7", "UK 8", "UK 9", "UK 10"],
 
       "url": "",
       "new": false
@@ -152,7 +152,7 @@
       "imgUrl": "https://res.cloudinary.com/dx8gt3nnu/image/upload/q_auto,f_auto/dryp-shoe-pictures/wmns-air-jordan-1-mid-'shadow'-bq6472007/display_picture.png",
       "photo1": "https://res.cloudinary.com/dx8gt3nnu/image/upload/q_auto,f_auto/dryp-shoe-pictures/wmns-air-jordan-1-mid-'shadow'-bq6472007/display_picture.png",
       "skuId": "WMAIJO1MISH",
-      "size": "ALL",
+      "sizes": ["UK 6", "UK 7", "UK 8", "UK 9", "UK 10"],
 
       "url": "",
       "new": false
@@ -164,7 +164,7 @@
       "imgUrl": "https://cdn.shopify.com/s/files/1/0788/3869/4173/files/nike-wmns-dunk-low-ocean-bliss_19887398_45662204_10001.jpg?v=1692213568",
       "photo1": "https://cdn.shopify.com/s/files/1/0788/3869/4173/files/nike-wmns-dunk-low-ocean-bliss_19887398_45662204_10001.jpg?v=1692213568",
       "skuId": "WMNIDULOOCBL",
-      "size": "ALL",
+      "sizes": ["UK 6", "UK 7", "UK 8", "UK 9", "UK 10"],
 
       "url": "https://findyourkicks.com/product/nike-dunk-low-ocean-bliss-citron-tint",
       "new": false
@@ -176,7 +176,7 @@
       "imgUrl": "https://cdn.shopify.com/s/files/1/0788/3869/4173/products/nike-dunk-low-wmns-orange-pearl_16593904_43017484_2048.jpg?v=1706719442",
       "photo1": "https://cdn.shopify.com/s/files/1/0788/3869/4173/products/nike-dunk-low-wmns-orange-pearl_16593904_43017484_2048.jpg?v=1706719442",
       "skuId": "WMDULOORPE",
-      "size": "ALL",
+      "sizes": ["UK 6", "UK 7", "UK 8", "UK 9", "UK 10"],
 
       "url": "",
       "new": false
@@ -188,7 +188,7 @@
       "imgUrl": "https://cdn.shopify.com/s/files/1/0788/3869/4173/files/jordan-wmns-air-jordan-1-low-barely-grape_19896809_46923296_2048.webp?v=1706340551",
       "photo1": "https://cdn.shopify.com/s/files/1/0788/3869/4173/files/jordan-wmns-air-jordan-1-low-barely-grape_19896809_46923296_2048.webp?v=1706340551",
       "skuId": "WMAIJO1LOBAGR",
-      "size": "ALL",
+      "sizes": ["UK 6", "UK 7", "UK 8", "UK 9", "UK 10"],
 
       "url": "",
       "new": false
@@ -200,7 +200,7 @@
       "imgUrl": "https://cdn.shopify.com/s/files/1/0788/3869/4173/files/IMG_8115.webp?v=1692786392",
       "photo1": "https://cdn.shopify.com/s/files/1/0788/3869/4173/files/IMG_8115.webp?v=1692786392",
       "skuId": "WMAIJO1LOSEREICBL",
-      "size": "ALL",
+      "sizes": ["UK 6", "UK 7", "UK 8", "UK 9", "UK 10"],
 
       "url": "https://findyourkicks.com/product/wmns-air-jordan-1-low-se-reverse-ice-blue",
       "new": false
@@ -212,7 +212,7 @@
       "imgUrl": "https://cdn.shopify.com/s/files/1/0788/3869/4173/products/nike-dunk-low-wmns-green-glow_16736715_43008892_2048.jpg?v=1706719520",
       "photo1": "https://cdn.shopify.com/s/files/1/0788/3869/4173/products/nike-dunk-low-wmns-green-glow_16736715_43008892_2048.jpg?v=1706719520",
       "skuId": "WMDULOGRGL",
-      "size": "ALL",
+      "sizes": ["UK 6", "UK 7", "UK 8", "UK 9", "UK 10"],
 
       "url": "",
       "new": false
@@ -224,7 +224,7 @@
       "imgUrl": "https://cdn.shopify.com/s/files/1/0788/3869/4173/products/nike-dunk-low-retro-wmns-canyon-rust_19649269_43776829_2048.jpg?v=1706720060",
       "photo1": "https://cdn.shopify.com/s/files/1/0788/3869/4173/products/nike-dunk-low-retro-wmns-canyon-rust_19649269_43776829_2048.jpg?v=1706720060",
       "skuId": "NIWMDULO‘CRU",
-      "size": "ALL",
+      "sizes": ["UK 6", "UK 7", "UK 8", "UK 9", "UK 10"],
 
       "url": "https://findyourkicks.com/product/nike-dunk-low-canyon-rust-w",
       "new": false
@@ -236,7 +236,7 @@
       "imgUrl": "https://cdn.shopify.com/s/files/1/0788/3869/4173/products/nike-wmns-dunk-low-pink-paisley_19759228_45867932_2048.jpg?v=1706720289",
       "photo1": "https://cdn.shopify.com/s/files/1/0788/3869/4173/products/nike-wmns-dunk-low-pink-paisley_19759228_45867932_2048.jpg?v=1706720289",
       "skuId": "NIDULOWMPIPA",
-      "size": "ALL",
+      "sizes": ["UK 6", "UK 7", "UK 8", "UK 9", "UK 10"],
 
       "url": "https://findyourkicks.com/product/nike-dunk-low-wmns-pink-paisley",
       "new": false
@@ -248,7 +248,7 @@
       "imgUrl": "https://cdn.shopify.com/s/files/1/0788/3869/4173/products/jordan-nike-jordan-1-low-wmns-lucky-green-aquatone_20185968_45660138_2048_1ceb4b8e-81fb-4fe5-96c9-6c5da37605f1.jpg?v=1707723277",
       "photo1": "https://cdn.shopify.com/s/files/1/0788/3869/4173/products/jordan-nike-jordan-1-low-wmns-lucky-green-aquatone_20185968_45660138_2048_1ceb4b8e-81fb-4fe5-96c9-6c5da37605f1.jpg?v=1707723277",
       "skuId": "AWMAIJO1LOLUGR",
-      "size": "ALL",
+      "sizes": ["UK 6", "UK 7", "UK 8", "UK 9", "UK 10"],
 
       "url": "https://findyourkicks.com/product/air-jordan-1-low-lucky-greenaquatone",
       "new": false
@@ -260,7 +260,7 @@
       "imgUrl": "https://cdn.shopify.com/s/files/1/0788/3869/4173/files/jordan-wmns-air-jordan-1-mid-se-berry-pink_18053438_43087265_10001.webp?v=1692212332",
       "photo1": "https://cdn.shopify.com/s/files/1/0788/3869/4173/files/jordan-wmns-air-jordan-1-mid-se-berry-pink_18053438_43087265_10001.webp?v=1692212332",
       "skuId": "WMAIJO1MISELIMU",
-      "size": "ALL",
+      "sizes": ["UK 6", "UK 7", "UK 8", "UK 9", "UK 10"],
 
       "url": "https://findyourkicks.com/product/wmns-air-jordan-1-mid-se-light-mulberry",
       "new": false
@@ -272,7 +272,7 @@
       "imgUrl": "https://cdn.shopify.com/s/files/1/0788/3869/4173/files/jordan-wmns-air-jordan-1-high-bubble-gum_17635923_43052857_2048.jpg?v=1706337522",
       "photo1": "https://cdn.shopify.com/s/files/1/0788/3869/4173/files/jordan-wmns-air-jordan-1-high-bubble-gum_17635923_43052857_2048.jpg?v=1706337522",
       "skuId": "WMAIJO1REHIOGSEBUGU",
-      "size": "ALL",
+      "sizes": ["UK 6", "UK 7", "UK 8", "UK 9", "UK 10"],
 
       "url": "",
       "new": false
@@ -284,7 +284,7 @@
       "imgUrl": "https://crepdogcrew.com/cdn/shop/products/easter2_800x.png?v=1654170268",
       "photo1": "https://crepdogcrew.com/cdn/shop/products/easter2_800x.png?v=1654170268",
       "skuId": "WMDULOATPI",
-      "size": "ALL",
+      "sizes": ["UK 6", "UK 7", "UK 8", "UK 9", "UK 10"],
 
       "url": "https://findyourkicks.com/product/wmns-dunk-low-atmosphere-pink",
       "new": false
@@ -296,7 +296,7 @@
       "imgUrl": "https://cdn.shopify.com/s/files/1/0788/3869/4173/files/nike-dunk-low-wmns-coast_16292247_43125769_2048.jpg?v=1706898286",
       "photo1": "https://cdn.shopify.com/s/files/1/0788/3869/4173/files/nike-dunk-low-wmns-coast_16292247_43125769_2048.jpg?v=1706898286",
       "skuId": "WMDULOCO",
-      "size": "ALL",
+      "sizes": ["UK 6", "UK 7", "UK 8", "UK 9", "UK 10"],
 
       "url": "",
       "new": false
@@ -308,7 +308,7 @@
       "imgUrl": "https://cdn.shopify.com/s/files/1/0788/3869/4173/files/jordan-air-jordan-1-high-og-wmns-starfish_18549936_45633812_10001.webp?v=1692214627",
       "photo1": "https://cdn.shopify.com/s/files/1/0788/3869/4173/files/jordan-air-jordan-1-high-og-wmns-starfish_18549936_45633812_10001.webp?v=1692214627",
       "skuId": "WMAIJO1HIOGST",
-      "size": "ALL",
+      "sizes": ["UK 6", "UK 7", "UK 8", "UK 9", "UK 10"],
 
       "url": "",
       "new": false
@@ -320,7 +320,7 @@
       "imgUrl": "https://cdn.shopify.com/s/files/1/0788/3869/4173/files/jordan-wmns-air-jordan-1-mid-stealth_19469712_43495967_2048.jpg?v=1706337696",
       "photo1": "https://cdn.shopify.com/s/files/1/0788/3869/4173/files/jordan-wmns-air-jordan-1-mid-stealth_19469712_43495967_2048.jpg?v=1706337696",
       "skuId": "WMAIJO1MIST",
-      "size": "ALL",
+      "sizes": ["UK 6", "UK 7", "UK 8", "UK 9", "UK 10"],
 
       "url": "https://findyourkicks.com/product/wmns-air-jordan-1-mid-stealth",
       "new": false
@@ -332,7 +332,7 @@
       "imgUrl": "https://images.stockx.com/360/Nike-Dunk-Low-Valentines-Day-2024-Womens/Images/Nike-Dunk-Low-Valentines-Day-2024-Womens/Lv2/img19.jpg?fm=avif&auto=compress&w=576&dpr=1&updated_at=1706297011&h=384&q=57",
       "photo1": "https://images.stockx.com/360/Nike-Dunk-Low-Valentines-Day-2024-Womens/Images/Nike-Dunk-Low-Valentines-Day-2024-Womens/Lv2/img19.jpg?fm=avif&auto=compress&w=576&dpr=1&updated_at=1706297011&h=384&q=57",
       "skuId": "BNIDULOVADA(W",
-      "size": "ALL",
+      "sizes": ["UK 6", "UK 7", "UK 8", "UK 9", "UK 10"],
 
       "url": "",
       "new": false
@@ -344,7 +344,7 @@
       "imgUrl": "https://cdn.shopify.com/s/files/1/0788/3869/4173/products/nike-wmns-dunk-low-next-nature-white-pale-coral_17468202_43043222_2048.jpg?v=1706719462",
       "photo1": "https://cdn.shopify.com/s/files/1/0788/3869/4173/products/nike-wmns-dunk-low-next-nature-white-pale-coral_17468202_43043222_2048.jpg?v=1706719462",
       "skuId": "WMDULONENAPACO",
-      "size": "ALL",
+      "sizes": ["UK 6", "UK 7", "UK 8", "UK 9", "UK 10"],
 
       "url": "https://findyourkicks.com/product/wmns-dunk-low-next-nature-pale-coral",
       "new": false
@@ -356,7 +356,7 @@
       "imgUrl": "https://crepdogcrew.com/cdn/shop/products/image_1e3d3665-ae21-493a-b91f-5c0a3cd9afcc_1000x.jpg?v=1621626411",
       "photo1": "https://crepdogcrew.com/cdn/shop/products/image_1e3d3665-ae21-493a-b91f-5c0a3cd9afcc_1000x.jpg?v=1621626411",
       "skuId": "BNIDULOBAGR(W",
-      "size": "ALL",
+      "sizes": ["UK 6", "UK 7", "UK 8", "UK 9", "UK 10"],
 
       "url": "",
       "new": false

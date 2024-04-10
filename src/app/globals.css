@@ -95,6 +95,13 @@ select {
   font-size: 1rem;
 }
 
+/* styles/global.css */
+
+.hover-scale:hover {
+  transform: scale(1.1); /* Increase scale on hover */
+  transition: transform 0.3s ease; /* Add smooth transition effect */
+}
+
 /* Apply basic styles to containers */
 .container {
   width: 100%;

@@ -8,7 +8,7 @@
       "imgUrl": "https://res.cloudinary.com/dx8gt3nnu/image/upload/q_auto,f_auto/dryp-shoe-pictures/wmns-air-jordan-1-mid-'coconut-milk'-bq6472121/display_picture.png",
       "photo1": "https://res.cloudinary.com/dx8gt3nnu/image/upload/q_auto,f_auto/dryp-shoe-pictures/wmns-air-jordan-1-mid-'coconut-milk'-bq6472121/display_picture.png",
       "skuId": "WMAIJO1MICOMI",
-      "size": "ALL",
+      "sizes": ["UK 6", "UK 7", "UK 8", "UK 9", "UK 10"],
       "url": "https://findyourkicks.com/product/wmns-air-jordan-1-mid-coconut-milk",
       "new": false
     },
@@ -19,7 +19,7 @@
       "imgUrl": "https://sneakerplug.co.in/cdn/shop/files/E49057D0-0E33-47F4-908B-E166A1EA0D2F_720x.jpg?v=1694429819",
       "photo1": "https://sneakerplug.co.in/cdn/shop/files/E49057D0-0E33-47F4-908B-E166A1EA0D2F_720x.jpg?v=1694429819",
       "skuId": "BJO1MISECRWHCEGRBL",
-      "size": "ALL",
+      "sizes": ["UK 6", "UK 7", "UK 8", "UK 9", "UK 10"],
       "url": "",
       "new": false
     },
@@ -30,7 +30,7 @@
       "imgUrl": "https://cdn.shopify.com/s/files/1/0788/3869/4173/products/jordan-air-jordan-1-chinese-new-year_22845589_48343498_2048.jpg?v=1706721984",
       "photo1": "https://cdn.shopify.com/s/files/1/0788/3869/4173/products/jordan-air-jordan-1-chinese-new-year_22845589_48343498_2048.jpg?v=1706721984",
       "skuId": "BAIJO1LOOGCHNEYE",
-      "size": "ALL",
+      "sizes": ["UK 6", "UK 7", "UK 8", "UK 9", "UK 10"],
       "url": "",
       "new": false
     },
@@ -41,7 +41,7 @@
       "imgUrl": "https://cdn.shopify.com/s/files/1/0788/3869/4173/products/jordan-air-jordan-1-low-lucky-green_19997390_46921279_2048_5c6265a5-47ef-44b4-bfc6-81d1d8bd5cd8.jpg?v=1706718716",
       "photo1": "https://cdn.shopify.com/s/files/1/0788/3869/4173/products/jordan-air-jordan-1-low-lucky-green_19997390_46921279_2048_5c6265a5-47ef-44b4-bfc6-81d1d8bd5cd8.jpg?v=1706718716",
       "skuId": "AIJO1LOLUGR",
-      "size": "ALL",
+      "sizes": ["UK 6", "UK 7", "UK 8", "UK 9", "UK 10"],
       "url": "https://findyourkicks.com/product/jordan-1-low-lucky-green",
       "new": false
     },
@@ -52,7 +52,7 @@
       "imgUrl": "https://cdn.shopify.com/s/files/1/0788/3869/4173/products/jordan-wmns-air-jordan-1-low-white-wolf-grey_16984863_47792707_2048.jpg?v=1706719721",
       "photo1": "https://cdn.shopify.com/s/files/1/0788/3869/4173/products/jordan-wmns-air-jordan-1-low-white-wolf-grey_16984863_47792707_2048.jpg?v=1706719721",
       "skuId": "WMAIJO1LOWHWOGR",
-      "size": "ALL",
+      "sizes": ["UK 6", "UK 7", "UK 8", "UK 9", "UK 10"],
       "url": "https://findyourkicks.com/product/air-jordan-1-low-golf-wolf-grey",
       "new": false
     },
@@ -63,7 +63,7 @@
       "imgUrl": "https://cdn.shopify.com/s/files/1/0788/3869/4173/files/jordan-air-jordan-1-low-royal-toe_21716010_47680729_2048.webp?v=1706351887",
       "photo1": "https://cdn.shopify.com/s/files/1/0788/3869/4173/files/jordan-air-jordan-1-low-royal-toe_21716010_47680729_2048.webp?v=1706351887",
       "skuId": "AIJO1LOALROTOE",
-      "size": "ALL",
+      "sizes": ["UK 6", "UK 7", "UK 8", "UK 9", "UK 10"],
       "url": "https://findyourkicks.com/product/air-jordan-1-low-royal-toe",
       "new": false
     },
@@ -74,7 +74,7 @@
       "imgUrl": "https://cdn.shopify.com/s/files/1/0788/3869/4173/products/jordan-air-jordan-1-mid-top-3-la_21219909_46692077_2048.jpg?v=1706722012",
       "photo1": "https://cdn.shopify.com/s/files/1/0788/3869/4173/products/jordan-air-jordan-1-mid-top-3-la_21219909_46692077_2048.jpg?v=1706722012",
       "skuId": "AIJO1MILAKTOPTH",
-      "size": "ALL",
+      "sizes": ["UK 6", "UK 7", "UK 8", "UK 9", "UK 10"],
       "url": "",
       "new": false
     }

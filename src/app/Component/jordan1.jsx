@@ -23,7 +23,7 @@ const Jordan4 = () => {
         {jordan4Products.map((product) => (
           <div
             onClick={() => {
-              router.push(`/jordan4/${product.skuId}`);
+              router.push(`/jordan1/${product.skuId}`);
             }}
             key={product.slug}
             className="bg-blue-100 rounded-lg overflow-hidden shadow-md hover:shadow-lg transition duration-300 mr-4"
@@ -34,7 +34,7 @@ const Jordan4 = () => {
               height={300}
               width={100}
               alt={product.name}
-              className="w-full h-40 object-cover object-center"
+              className="w-full h-40 object-cover object-center transition duration-300 transform hover:scale-105"
             />
             <div className="p-4">
               <h2 className="text-lg font-bold mb-2">{product.name}</h2>

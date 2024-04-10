@@ -85,8 +85,10 @@ const Product = () => {
                       <button
                         key={size}
                         className={`btn ${
-                          selectedSize === size ? "btn-selected" : ""
-                        }`}
+                          selectedSize === size
+                            ? "bg-blue-500 text-white"
+                            : "bg-gray-200 text-gray-800"
+                        } hover:bg-blue-600 hover:text-white px-4 py-2 rounded-md`}
                         onClick={() => handleSizeChange(size)}
                       >
                         {size}

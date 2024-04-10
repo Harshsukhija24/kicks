@@ -2,26 +2,21 @@
 import React, { useState, useEffect } from "react";
 import Searchbar from "../Component/Searchbar1";
 import { useRouter } from "next/navigation";
-import { useSession } from "next-auth/react";
 import Image from "next/image";
 
 const LimitedEdition = () => {
   const [limitedEditionProducts, setLimitedEditionProducts] = useState([]);
   const [searchQuery, setSearchQuery] = useState("");
   const router = useRouter();
-  const { data: session } = useSession();
 
   useEffect(() => {
-    if (!session) {
-      router.push("/");
-    }
     fetch("api/limitedEdition")
       .then((response) => response.json())
       .then((data) => setLimitedEditionProducts(data.products))
       .catch((error) =>
         console.error("Error fetching limited edition products:", error)
       );
-  }, [session]);
+  }, []);
 
   const filteredProducts = limitedEditionProducts.filter((product) =>
     product.name.toLowerCase().includes(searchQuery.toLowerCase())
@@ -47,7 +42,7 @@ const LimitedEdition = () => {
               width={100}
               src={product.imgUrl}
               alt={product.name}
-              className="w-full h-40 object-cover object-center"
+              className="w-full h-40 object-cover object-center transition duration-300 transform hover:scale-105"
             />
             <div className="p-4">
               <h2 className="text-lg font-bold mb-2">{product.name}</h2>
