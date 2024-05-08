@@ -3,8 +3,7 @@ import React, { useState } from "react";
 
 const generateSKU = () => {
   // Generate a random alphanumeric string for SKU ID
-  const characters =
-    "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789";
+  const characters = "ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789";
   const length = 10;
   let sku = "";
   for (let i = 0; i < length; i++) {
@@ -65,21 +64,21 @@ const ResellerPage = () => {
         body: JSON.stringify({
           ...formData,
           skuId: sku,
-          slug: formData.productName, // Slug seems to be undefined, I'll keep it as it is
+          slug: formData.productName,
         }),
       });
       if (!response.ok) {
         throw new Error("Failed to add data");
       }
       console.log("Data added successfully");
-      alert("Submitted successfully"); // Alert for successful submission
+      alert("Submitted successfully");
       setFormData({
         name: "",
         email: "",
         price: "",
         productName: "",
         sizes: [],
-        imgUrl: "", // Reset form data after submission
+        imgUrl: "",
       });
     } catch (error) {
       console.error("Error adding data:", error);
@@ -90,11 +89,12 @@ const ResellerPage = () => {
     <div className="bg-gray-200 min-h-screen flex justify-center items-center">
       <div className="max-w-md mx-auto bg-white p-8 rounded-lg shadow-lg">
         <h1 className="text-3xl font-bold mb-4 text-center">
-          Become a Reseller on Kick!
+          Become a Reseller on ShopSphere!
         </h1>
         <p className="mb-6 text-center text-gray-700">
           Are you passionate about sneakers and looking to expand your business?
-          Joining Kick as a reseller could be the perfect opportunity for you.
+          Joining ShopSphere as a reseller could be the perfect opportunity for
+          you.
         </p>
         <form onSubmit={handleSubmit}>
           <div className="mb-4">

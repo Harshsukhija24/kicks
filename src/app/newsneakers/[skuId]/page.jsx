@@ -5,7 +5,7 @@ import { useDispatch } from "react-redux";
 import Image from "next/image";
 
 const Product = ({ skuId }) => {
-  const [productData, setProductData] = useState(null);
+  const [productData, setProductData] = useState([]);
   const [selectedSize, setSelectedSize] = useState("");
   const [showPrompt, setShowPrompt] = useState(false);
   const [error, setError] = useState(null);

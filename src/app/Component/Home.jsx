@@ -8,7 +8,7 @@ const Home = () => {
   const [products, setProducts] = useState([]);
   const [filteredData, setFilteredData] = useState([]);
   const [searchQuery, setSearchQuery] = useState("");
-  const [filterData, setFilterData] = useState(""); // State for filtering
+  const [filterData, setFilterData] = useState("");
   const router = useRouter();
 
   useEffect(() => {
@@ -16,13 +16,12 @@ const Home = () => {
       .then((response) => response.json())
       .then((data) => {
         setProducts(data.products);
-        setFilteredData(data.products); // Initialize filteredData with all products
+        setFilteredData(data.products);
       })
       .catch((error) => console.error("Error fetching products:", error));
   }, []);
 
   useEffect(() => {
-    // Filter products based on searchQuery and filterData
     const filteredProducts = products.filter(
       (product) =>
         product.name.toLowerCase().includes(searchQuery.toLowerCase()) &&

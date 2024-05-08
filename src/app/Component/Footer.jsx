@@ -49,10 +49,10 @@ const Footer = () => {
             <li>
               Reach out to us at{" "}
               <a
-                href="mailto:reseller@kick.com"
+                href="mailto:reseller@ShopSphere.com"
                 className="text-blue-500 hover:underline"
               >
-                reseller@kick.com
+                reseller@ShopSphere.com
               </a>{" "}
               to learn more.
             </li>

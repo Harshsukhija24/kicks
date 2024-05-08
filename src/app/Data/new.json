@@ -1,22 +1,26 @@
 [
   {
-    "name": "hello",
-    "email": "qwerty@gmail.com",
-    "price": "1229",
-    "productName": "hello",
-    "sizes": ["UK7", "UK8", "UK9"],
-    "skuId": "7Qy1edFmll",
-    "imgUrl": "https://res.cloudinary.com/dx8gt3nnu/image/upload/q_auto,f_auto/dryp-shoe-pictures/wmns-air-jordan-1-mid-'coconut-milk'-bq6472121/display_picture.png",
-    "slug": "hello"
+    "slug": "offwhite-x-dunk-low-pine-green",
+    "price": 71683.51,
+    "name": "OffWhite X Dunk Low Pine Green",
+    "imgUrl": "https://urbannecessities.com/cdn/shop/products/537415_00_png_800x.png?v=1657203658",
+    "photo1": "https://urbannecessities.com/cdn/shop/products/537415_00_png_800x.png?v=1657203658",
+    "skuId": "OFXDULOPIGR",
+    "sizes": ["UK 6", "UK 7", "UK 8", "UK 9", "UK 10"],
+
+    "url": "",
+    "new": false
   },
   {
-    "name": "adi",
-    "email": "qwerty@gmail.com",
-    "price": "2338",
-    "productName": "Travis",
-    "sizes": ["UK7", "UK8"],
-    "imgUrl": "https://cdn.shopify.com/s/files/1/0788/3869/4173/products/nike-sb-dunk-low-ebay-sandy-bodecker_19418462_43497223_2048.jpg?v=1706721027",
-    "slug": "Travis",
-    "skuId": "xOZwdtPlw0"
+    "slug": "dior-x-air-jordan-1-low",
+    "price": 602793.12,
+    "name": "Dior X Air Jordan 1 Low",
+    "imgUrl": "https://cdn.shopify.com/s/files/1/0788/3869/4173/files/IMG_7874.webp?v=1692709489",
+    "photo1": "https://cdn.shopify.com/s/files/1/0788/3869/4173/files/IMG_7874.webp?v=1692709489",
+    "skuId": "DIXAIJO1LO",
+    "sizes": ["UK 6", "UK 7", "UK 8", "UK 9", "UK 10"],
+
+    "url": "",
+    "new": false
   }
 ]
