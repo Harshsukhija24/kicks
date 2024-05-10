@@ -14,9 +14,9 @@ const Page = () => {
         </p>
         <p className="mb-4">
           Thanks to the incredible support from our community, we're dedicated
-          to continuously improving ShopSphere to better serve you. Your
-          satisfaction is our top priority, and we're committed to providing you
-          with the best sneaker-buying (and selling) experience possible.
+          to continuously improving kicks to better serve you. Your satisfaction
+          is our top priority, and we're committed to providing you with the
+          best sneaker-buying (and selling) experience possible.
         </p>
         <p className="mb-4">
           Have feedback to share or interested in collaborating with us? We'd
@@ -34,7 +34,7 @@ const Page = () => {
         <p className="mt-4">
           Warm regards,
           <br />
-          The ShopSphere Team
+          The kicks Team
         </p>
       </div>
     </>

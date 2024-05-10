@@ -9,7 +9,7 @@ import Footer from "./Component/Footer";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "ShopSphere",
+  title: "kicks",
   description: "made by team",
 };
 

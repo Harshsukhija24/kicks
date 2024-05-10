@@ -8,7 +8,7 @@ const Jordan4 = () => {
   const router = useRouter();
 
   useEffect(() => {
-    fetch("api/jordan1") // Replace 'api/jordan4Products' with your actual API endpoint
+    fetch("api/jordan1")
       .then((response) => response.json())
       .then((data) => setJordan4Products(data.products))
       .catch((error) =>
@@ -27,7 +27,7 @@ const Jordan4 = () => {
             }}
             key={product.slug}
             className="bg-blue-100 rounded-lg overflow-hidden shadow-md hover:shadow-lg transition duration-300 mr-4"
-            style={{ minWidth: "300px" }} // Adjust the minimum width of each item
+            style={{ minWidth: "300px" }}
           >
             <Image
               src={product.imgUrl}

@@ -89,12 +89,11 @@ const ResellerPage = () => {
     <div className="bg-gray-200 min-h-screen flex justify-center items-center">
       <div className="max-w-md mx-auto bg-white p-8 rounded-lg shadow-lg">
         <h1 className="text-3xl font-bold mb-4 text-center">
-          Become a Reseller on ShopSphere!
+          Become a Reseller on kicks!
         </h1>
         <p className="mb-6 text-center text-gray-700">
           Are you passionate about sneakers and looking to expand your business?
-          Joining ShopSphere as a reseller could be the perfect opportunity for
-          you.
+          Joining kicks as a reseller could be the perfect opportunity for you.
         </p>
         <form onSubmit={handleSubmit}>
           <div className="mb-4">

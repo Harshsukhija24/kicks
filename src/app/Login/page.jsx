@@ -47,7 +47,7 @@ const Page = () => {
         className="max-w-md w-full bg-white shadow-md rounded-lg px-8 py-6"
       >
         <h1 className="text-3xl font-bold mb-6 text-center">
-          Welcome to ShopSphere
+          Welcome to kicks
         </h1>
         <input
           id="email"
@@ -71,7 +71,7 @@ const Page = () => {
         </button>
         {error && <div className="text-red-500 mt-2">{error}</div>}
         <p className="mt-4 text-center">
-          New to ShopSphere?{" "}
+          New to kicks?{" "}
           <span className="text-blue-500 hover:text-blue-700 cursor-pointer">
             <Link href="/Register">Register</Link>
           </span>

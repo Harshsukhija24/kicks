@@ -1,1 +1,15 @@
-[]
+[
+  {
+    "name": "harsh sukhija",
+    "email": "harshsukhija2002@gmail.com",
+    "price": "4568",
+    "productName": "shoe",
+    "sizes": [
+      "UK7",
+      "UK8"
+    ],
+    "imgUrl": "https://res.cloudinary.com/dx8gt3nnu/image/upload/q_auto,f_auto/dryp-shoe-pictures/wmns-air-jordan-1-mid-'coconut-milk'-bq6472121/display_picture.png",
+    "slug": "shoe",
+    "skuId": "WGXHVXIWJN"
+  }
+]
