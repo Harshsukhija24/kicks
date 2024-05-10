@@ -19,31 +19,28 @@ const Women = () => {
   return (
     <div className="container mx-auto">
       <h1 className="text-4xl font-bold mb-4">Women's Shoes</h1>
-      <div className="overflow-x-auto whitespace-nowrap scrollbar-hide">
-        <div className="inline-flex">
-          {products.map((product) => (
-            <div
-              onClick={() => {
-                router.push(`/women/${product.skuId}`);
-              }}
-              key={product.slug}
-              className="bg-purple-200 rounded-lg overflow-hidden mr-4"
-              style={{ width: "300px" }} // Adjust width of each item as needed
-            >
-              <Image
-                src={product.imgUrl}
-                height={300}
-                width={100}
-                alt={product.name}
-                className="w-full h-40 object-cover object-center transition duration-300 transform hover:scale-105"
-              />
-              <div className="p-4">
-                <h2 className="text-lg font-bold mb-2">{product.name}</h2>
-                <p className="text-gray-800">${product.price}</p>
-              </div>
+      <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">
+        {products.map((product) => (
+          <div
+            onClick={() => {
+              router.push(`/women/${product.skuId}`);
+            }}
+            key={product.slug}
+            className="border-none rounded-lg overflow-hidden shadow-md hover:shadow-lg transition duration-300 rounded-lg shadow-lg hover:shadow-2xl transition duration-300 ease-in-out transform hover:-translate-y-1 hover:scale-110"
+          >
+            <Image
+              src={product.imgUrl}
+              height={300}
+              width={100}
+              alt={product.name}
+              className="w-full h-40 object-cover object-center transition duration-300 transform hover:scale-105"
+            />
+            <div className="p-4">
+              <h2 className="text-lg font-bold mb-2">{product.name}</h2>
+              <p className="text-gray-600">₹{product.price}</p>
             </div>
-          ))}
-        </div>
+          </div>
+        ))}
       </div>
     </div>
   );

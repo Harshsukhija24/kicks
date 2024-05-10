@@ -2,6 +2,7 @@
 const nextConfig = {
   images: {
     domains: [
+      "i.pinimg.com",
       "www.shutterstock.com",
       "res.cloudinary.com",
       "dx8gt3nnu.image",

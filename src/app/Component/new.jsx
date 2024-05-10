@@ -43,15 +43,14 @@ const New = () => {
   return (
     <div className="container mx-auto">
       <h1 className="text-4xl font-bold mb-4">New Sneakers</h1>
-      <div className="grid grid-flow-col auto-cols-max gap-4 overflow-x-auto">
+      <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">
         {newProduct.map((product) => (
           <div
             key={product.slug}
             onClick={() => {
               router.push(`/newsneakers/${product.skuId}`);
             }}
-            className="bg-blue-100 rounded-lg overflow-hidden shadow-md hover:shadow-lg transition duration-300 mr-4"
-            style={{ minWidth: "300px" }}
+            className="border-none rounded-lg overflow-hidden shadow-md hover:shadow-lg transition duration-300 rounded-lg shadow-lg hover:shadow-2xl transition duration-300 ease-in-out transform hover:-translate-y-1 hover:scale-110"
           >
             <Image
               src={product.imgUrl}
@@ -62,7 +61,7 @@ const New = () => {
             />
             <div className="p-4">
               <h2 className="text-lg font-bold mb-2">{product.name}</h2>
-              <p className="text-gray-800">${product.price}</p>
+              <p className="text-gray-600">₹{product.price}</p>
             </div>
           </div>
         ))}

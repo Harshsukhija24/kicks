@@ -23,7 +23,7 @@ export default function SignOut() {
     <SessionProvider session={session}>
       {" "}
       {/* Wrap your component with SessionProvider */}
-      <div className="flex items-center justify-center min-h-screen bg-gray-900 text-white">
+      <div className="flex items-center justify-center min-h-screen bg-white text-black">
         {session ? (
           <div className="text-center">
             <p className="text-xl mb-4">Hello, {session.user.name}!</p>

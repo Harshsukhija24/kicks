@@ -86,8 +86,8 @@ const ResellerPage = () => {
   };
 
   return (
-    <div className="bg-gray-200 min-h-screen flex justify-center items-center">
-      <div className="max-w-md mx-auto bg-white p-8 rounded-lg shadow-lg">
+    <div className=" border-none min-h-screen flex justify-center items-center">
+      <div className="max-w-md mx-auto  border-none p-8 rounded-lg shadow-lg">
         <h1 className="text-3xl font-bold mb-4 text-center">
           Become a Reseller on kicks!
         </h1>
@@ -95,7 +95,7 @@ const ResellerPage = () => {
           Are you passionate about sneakers and looking to expand your business?
           Joining kicks as a reseller could be the perfect opportunity for you.
         </p>
-        <form onSubmit={handleSubmit}>
+        <form className=" border-none" onSubmit={handleSubmit}>
           <div className="mb-4">
             <label className="block mb-2" htmlFor="name">
               Name:

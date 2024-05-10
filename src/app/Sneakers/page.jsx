@@ -57,7 +57,7 @@ const Home = () => {
             onClick={() => {
               router.push(`Sneakers/${product.skuId}`);
             }}
-            className="bg-blue-200 rounded-lg overflow-hidden shadow-md hover:shadow-lg transition duration-300 relative"
+            className=" border-none rounded-lg overflow-hidden shadow-md hover:shadow-lg transition duration-300 rounded-lg shadow-lg hover:shadow-2xl transition duration-300 ease-in-out transform hover:-translate-y-1 hover:scale-110"
             style={{ width: "250px", height: "300px" }} // Adjust width and height as needed
           >
             <Image
@@ -69,7 +69,7 @@ const Home = () => {
             />
             <div className="p-4">
               <h2 className="text-lg font-bold mb-2">{product.name}</h2>
-              <p className="text-gray-800">${product.price}</p>
+              <p className="text-gray-600">₹{product.price}</p>
             </div>
           </div>
         ))}
