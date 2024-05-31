@@ -1,10 +1,11 @@
 "use client";
 import React, { useState, useEffect } from "react";
-import { addItem } from "@/app/redux/slices/cartSlice"; // Assuming `addItem` is a Redux action
+import { addItem } from "@/app/redux/slices/cartSlice";
 import { useDispatch } from "react-redux";
 import Image from "next/image";
 
-const Product = ({ skuId }) => {
+const Product = ({ params }) => {
+  const { skuId } = params;
   const [productData, setProductData] = useState([]);
   const [selectedSize, setSelectedSize] = useState("");
   const [showPrompt, setShowPrompt] = useState(false);
@@ -68,7 +69,7 @@ const Product = ({ skuId }) => {
           </div>
           <div>
             <p className="text-xl font-semibold text-blue-800">
-              Product Name: {productData.productName}
+              Product Name: {productData.name}
             </p>
             <p className="text-xl text-green-800">Price: {productData.price}</p>
             <div className="mt-4">
